@@ -1,0 +1,37 @@
+﻿<mockup version="5.1" minAllowVersion="5.1" ID="CBDC808D-6105-405F-90B3-2BFD5D107098" platform="MtWeb" defaultW="1100" defaultH="6000" measureW="1100" measureH="6000" mobileScreenScale="0">
+  <controls controlCount="4">
+    <control controlID="CAB34E38-0C43-4D91-AB9E-43C6D800DF1D" controlTypeID="BrowserWindow" x="68" y="29" w="964" h="1228" zOrder="0">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Target+Users%0D%0Ahttps%3A%2F%2Fwww.237first.cm</text>
+      <textSize>14</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="FC21A8F1-6BCA-4B1B-B69F-430369CCCFEB" controlTypeID="Shape" x="69" y="100" w="963" h="33" zOrder="1">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>+++%0D%0A+++logo%0D%0A</text>
+      <textSize>14</textSize>
+      <textAlign>HaLeft</textAlign>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="F4C596D5-64EA-4A6D-A053-EFC7292612CA" controlTypeID="Shape" x="68" y="1185" w="964" h="46" zOrder="2">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>+++++++++++++++++++++++++++++%0D%0A%0D%0A++++about+us++++++++++contact+us+++++++++++jobs+++++++++++++forum%0D%0A%0D%0A+++</text>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="B9BB5312-AADE-4575-BE33-AAF0A4386515" controlTypeID="Shape" x="68" y="133" w="964" h="120" zOrder="3">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Select+specific+users+to+run+your+campaign+on+</text>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

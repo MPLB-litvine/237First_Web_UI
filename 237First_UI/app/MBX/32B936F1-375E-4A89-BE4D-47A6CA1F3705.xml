@@ -1,0 +1,51 @@
+﻿<mockup version="5.1" minAllowVersion="5.1" ID="32B936F1-375E-4A89-BE4D-47A6CA1F3705" platform="MtWeb" defaultW="1100" defaultH="6000" measureW="1100" measureH="6000" mobileScreenScale="0">
+  <controls controlCount="7">
+    <control controlID="35A6C729-1890-446F-B664-F2D12DA56B59" controlTypeID="__group__" x="68" y="40" w="964" h="705" zOrder="0">
+      <groupChildrenDescriptors>
+        <control controlID="9224D21C-4E43-41B4-820A-713AA0517A90" controlTypeID="BrowserWindow" x="0" y="0" w="964" h="705" zOrder="0">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>237First%0D%0Ahttps%3A%2F%2Fwww.237first.cm</text>
+          <textSize>14</textSize>
+          <textVAlign>VaTop</textVAlign>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="FCEA57DE-8C2C-49B6-A700-658C1ED9B0EB" controlTypeID="Shape" x="1" y="71" w="963" h="33" zOrder="1">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>++++logo%0D%0A</text>
+          <textSize>14</textSize>
+          <textAlign>HaLeft</textAlign>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="07BCDC1B-E3BB-4B01-81BE-67D515998DD6" controlTypeID="Shape" x="113" y="307" w="732" h="70" zOrder="2">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>MY+DASHBOARD</text>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="4A5C973F-B6F1-47C3-AE7A-3FC98BB5713F" controlTypeID="TextArea" x="113" y="388" w="293" h="193" zOrder="3">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>REGION+BASED+CAMPAIGN</text>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="297683AB-1212-4FBC-B2CD-514579FEB024" controlTypeID="TextArea" x="553" y="387" w="293" h="193" zOrder="4">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>TARGET+SPECIFIC+CAMPAIGN</text>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="258B8D9B-8782-4B44-98CE-1BCC756AE9D8" controlTypeID="Shape" x="0" y="629" w="964" h="46" zOrder="5">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>+++++++++++++++++++++++++++++%0D%0A%0D%0A+++++about+us++++++++++contact+us+++++++++++jobs+++++++++++++forum%0D%0A%0D%0A+++</text>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

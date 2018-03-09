@@ -1,0 +1,588 @@
+﻿<mockup version="5.1" minAllowVersion="5.1" ID="460CABED-8B68-492A-9A2F-8F4D6F82AB8E" platform="MtWeb" defaultW="1100" defaultH="6000" measureW="1100" measureH="6000" mobileScreenScale="0">
+  <controls controlCount="28">
+    <control controlID="7D94D63F-EC0C-4D91-802B-50BC3187698E" controlTypeID="__group__" x="181" y="0" w="727" h="1219" zOrder="0">
+      <groupChildrenDescriptors>
+        <control controlID="32954B60-2806-4F23-BADB-D7359EAEE74B" controlTypeID="BrowserWindow" x="0" y="0" w="727" h="1219" zOrder="0">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>237First%0D%0Ahttps%3A%2F%2Fwww.237first.cm</text>
+          <textSize>14</textSize>
+          <textVAlign>VaTop</textVAlign>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="85074BDA-1C97-4041-B9A1-898CBC0710BF" controlTypeID="Shape" x="1" y="73" w="726" h="29" zOrder="1">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>++++logo%0D%0A</text>
+          <textSize>14</textSize>
+          <textAlign>HaLeft</textAlign>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="857E6CA0-3938-4B50-BD67-1F9A430C20C4" controlTypeID="Shape" x="0" y="1143" w="727" h="50" zOrder="2">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>+++++++++++++++++++++++++++++%0D%0A%0D%0A+++++about+us++++++++++contact+us+++++++++++jobs+++++++++++++forum%0D%0A%0D%0A+++</text>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="FAA21FBB-0527-4D5D-A358-0B0DF9B153D0" controlTypeID="TextInput" x="113" y="154" w="138" h="24" zOrder="3">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Marketing</text>
+          <textAlign>HaCenter</textAlign>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="E20EDBB0-F4C2-4765-9FBC-2F2398E091E6" controlTypeID="ColumnChartEx" x="22" y="203" w="319" h="130" zOrder="4">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>40%2Corange%0D%0A70%2Ccyan%0D%0A100%2Cpink%0D%0A60%2C%23FFCE55</text>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+        </control>
+        <control controlID="0A489A4D-4867-4566-9739-167F77D3BEA0" controlTypeID="TextInput" x="299" y="388" w="138" h="24" zOrder="5">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Shared+content</text>
+          <textAlign>HaCenter</textAlign>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="65323199-6BB4-4134-8780-B175598102D0" controlTypeID="Table" x="8" y="422" w="707" h="94" zOrder="6">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Table</text>
+          <textSize>14</textSize>
+          <textAlign>HaCenter</textAlign>
+          <lineSpacing>0</lineSpacing>
+          <thickness>1</thickness>
+          <dashMode>SdSolid</dashMode>
+          <tableStyle>tsNone</tableStyle>
+          <editIndex>0</editIndex>
+          <rows>
+            <row height="30">
+              <editIndex>0</editIndex>
+              <isAutoRowHeight>True</isAutoRowHeight>
+            </row>
+            <row height="30">
+              <editIndex>0</editIndex>
+              <isAutoRowHeight>True</isAutoRowHeight>
+            </row>
+            <row height="34">
+              <editIndex>0</editIndex>
+              <isAutoRowHeight>False</isAutoRowHeight>
+            </row>
+          </rows>
+          <cols>
+            <col width="175">
+              <editIndex>0</editIndex>
+            </col>
+            <col width="177">
+              <editIndex>0</editIndex>
+            </col>
+            <col width="177">
+              <editIndex>0</editIndex>
+            </col>
+            <col width="178">
+              <editIndex>0</editIndex>
+            </col>
+          </cols>
+          <cells>
+            <cell rows="0,0" cols="0,0">
+              <fontFamily>Segoe+UI</fontFamily>
+              <editIndex>0</editIndex>
+              <text>Content</text>
+              <textHeight>28</textHeight>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="0,0" cols="1,1">
+              <fontFamily>Segoe+UI</fontFamily>
+              <editIndex>0</editIndex>
+              <text>Shared</text>
+              <textHeight>28</textHeight>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="0,0" cols="2,2">
+              <fontFamily>Segoe+UI</fontFamily>
+              <editIndex>0</editIndex>
+              <text>Likes</text>
+              <textHeight>28</textHeight>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="0,0" cols="3,3">
+              <fontFamily>Segoe+UI</fontFamily>
+              <editIndex>0</editIndex>
+              <text>Dislikes</text>
+              <textHeight>28</textHeight>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="1,1" cols="0,0">
+              <fontFamily>Segoe+UI</fontFamily>
+              <editIndex>0</editIndex>
+              <textHeight>30</textHeight>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="1,1" cols="1,1">
+              <fontFamily>Segoe+UI</fontFamily>
+              <editIndex>0</editIndex>
+              <textHeight>30</textHeight>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="1,1" cols="2,2">
+              <fontFamily>Segoe+UI</fontFamily>
+              <editIndex>0</editIndex>
+              <textHeight>30</textHeight>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="1,1" cols="3,3">
+              <fontFamily>Segoe+UI</fontFamily>
+              <editIndex>0</editIndex>
+              <textHeight>30</textHeight>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="2,2" cols="0,0">
+              <fontFamily>Segoe+UI</fontFamily>
+              <editIndex>0</editIndex>
+              <textHeight>30</textHeight>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="2,2" cols="1,1">
+              <fontFamily>Segoe+UI</fontFamily>
+              <editIndex>0</editIndex>
+              <textHeight>30</textHeight>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="2,2" cols="2,2">
+              <fontFamily>Segoe+UI</fontFamily>
+              <editIndex>0</editIndex>
+              <textHeight>30</textHeight>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="2,2" cols="3,3">
+              <fontFamily>Segoe+UI</fontFamily>
+              <editIndex>0</editIndex>
+              <textHeight>30</textHeight>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+          </cells>
+        </control>
+        <control controlID="46012285-6662-477E-9A35-FC585CE27BA0" controlTypeID="Table" x="98" y="554" w="535" h="83" zOrder="7">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Table</text>
+          <textSize>14</textSize>
+          <textAlign>HaCenter</textAlign>
+          <lineSpacing>0</lineSpacing>
+          <thickness>1</thickness>
+          <dashMode>SdSolid</dashMode>
+          <tableStyle>tsNone</tableStyle>
+          <editIndex>0</editIndex>
+          <rows>
+            <row height="30">
+              <editIndex>0</editIndex>
+              <isAutoRowHeight>True</isAutoRowHeight>
+            </row>
+            <row height="53">
+              <editIndex>0</editIndex>
+              <isAutoRowHeight>False</isAutoRowHeight>
+            </row>
+          </rows>
+          <cols>
+            <col width="535">
+              <editIndex>0</editIndex>
+            </col>
+          </cols>
+          <cells>
+            <cell rows="0,0" cols="0,0">
+              <fontFamily>Segoe+UI</fontFamily>
+              <editIndex>0</editIndex>
+              <text>Donations</text>
+              <textHeight>28</textHeight>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="1,1" cols="0,0">
+              <fontFamily>Segoe+UI</fontFamily>
+              <editIndex>0</editIndex>
+              <text>40000000frs</text>
+              <textHeight>28</textHeight>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+          </cells>
+        </control>
+        <control controlID="F817B3FD-196E-479A-BB8A-914A1991158D" controlTypeID="TextInput" x="299" y="671" w="138" h="24" zOrder="8">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Network</text>
+          <textAlign>HaCenter</textAlign>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="C355F5B1-84D4-4196-97C3-744828121254" controlTypeID="Table" x="96" y="705" w="537" h="120" zOrder="9">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Table</text>
+          <textSize>14</textSize>
+          <textAlign>HaCenter</textAlign>
+          <lineSpacing>0</lineSpacing>
+          <thickness>1</thickness>
+          <dashMode>SdSolid</dashMode>
+          <tableStyle>tsNone</tableStyle>
+          <editIndex>0</editIndex>
+          <rows>
+            <row height="30">
+              <editIndex>0</editIndex>
+              <isAutoRowHeight>True</isAutoRowHeight>
+            </row>
+            <row height="30">
+              <editIndex>0</editIndex>
+              <isAutoRowHeight>True</isAutoRowHeight>
+            </row>
+            <row height="30">
+              <editIndex>0</editIndex>
+              <isAutoRowHeight>True</isAutoRowHeight>
+            </row>
+            <row height="30">
+              <editIndex>0</editIndex>
+              <isAutoRowHeight>True</isAutoRowHeight>
+            </row>
+          </rows>
+          <cols>
+            <col width="268">
+              <editIndex>0</editIndex>
+            </col>
+            <col width="269">
+              <editIndex>0</editIndex>
+            </col>
+          </cols>
+          <cells>
+            <cell rows="0,0" cols="0,0">
+              <fontFamily>Segoe+UI</fontFamily>
+              <editIndex>0</editIndex>
+              <text>Region</text>
+              <textHeight>28</textHeight>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="0,0" cols="1,1">
+              <fontFamily>Segoe+UI</fontFamily>
+              <editIndex>0</editIndex>
+              <text>Users</text>
+              <textHeight>28</textHeight>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="1,1" cols="0,0">
+              <fontFamily>Segoe+UI</fontFamily>
+              <editIndex>0</editIndex>
+              <text>Yaounde%2C+Cameroon</text>
+              <textHeight>28</textHeight>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="1,1" cols="1,1">
+              <fontFamily>Segoe+UI</fontFamily>
+              <editIndex>0</editIndex>
+              <text>500000</text>
+              <textHeight>28</textHeight>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="2,2" cols="0,0">
+              <fontFamily>Segoe+UI</fontFamily>
+              <editIndex>0</editIndex>
+              <text>Limbe%2C+Cameroon</text>
+              <textHeight>28</textHeight>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="2,2" cols="1,1">
+              <fontFamily>Segoe+UI</fontFamily>
+              <editIndex>0</editIndex>
+              <text>400000</text>
+              <textHeight>28</textHeight>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="3,3" cols="0,0">
+              <fontFamily>Segoe+UI</fontFamily>
+              <editIndex>0</editIndex>
+              <text>Total</text>
+              <textHeight>28</textHeight>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="3,3" cols="1,1">
+              <fontFamily>Segoe+UI</fontFamily>
+              <editIndex>0</editIndex>
+              <text>900000</text>
+              <textHeight>28</textHeight>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+          </cells>
+        </control>
+        <control controlID="FAFD28C2-D7B0-45DB-8B27-3D7A90F2FFF7" controlTypeID="TextInput" x="479" y="145" w="138" h="24" zOrder="10">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Promotion</text>
+          <textAlign>HaCenter</textAlign>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="DE850A6C-5125-4BAF-9BFC-135B6987F6AC" controlTypeID="ColumnChartEx" x="387" y="179" w="322" h="154" zOrder="11">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>40%2Corange%0D%0A70%2Ccyan%0D%0A100%2Cpink%0D%0A60%2C%23FFCE55</text>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+        </control>
+        <control controlID="DD77DE3B-DED9-440B-AD28-7B981C9FD9B2" controlTypeID="TextInput" x="116" y="890" w="138" h="24" zOrder="12">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Investment</text>
+          <textAlign>HaCenter</textAlign>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="43A656A1-6FDD-4FB8-AE8F-6F90FE870D2E" controlTypeID="Table" x="12" y="924" w="346" h="209" zOrder="13">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Table</text>
+          <textSize>14</textSize>
+          <textAlign>HaCenter</textAlign>
+          <lineSpacing>0</lineSpacing>
+          <thickness>1</thickness>
+          <dashMode>SdSolid</dashMode>
+          <tableStyle>tsNone</tableStyle>
+          <editIndex>0</editIndex>
+          <rows>
+            <row height="30">
+              <editIndex>0</editIndex>
+              <isAutoRowHeight>True</isAutoRowHeight>
+            </row>
+            <row height="30">
+              <editIndex>0</editIndex>
+              <isAutoRowHeight>True</isAutoRowHeight>
+            </row>
+            <row height="149">
+              <editIndex>0</editIndex>
+              <isAutoRowHeight>False</isAutoRowHeight>
+            </row>
+          </rows>
+          <cols>
+            <col width="173">
+              <editIndex>0</editIndex>
+            </col>
+            <col width="173">
+              <editIndex>0</editIndex>
+            </col>
+          </cols>
+          <cells>
+            <cell rows="0,0" cols="0,0">
+              <fontFamily>Segoe+UI</fontFamily>
+              <editIndex>0</editIndex>
+              <text>Investor</text>
+              <textHeight>28</textHeight>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="0,0" cols="1,1">
+              <fontFamily>Segoe+UI</fontFamily>
+              <editIndex>0</editIndex>
+              <text>Status</text>
+              <textHeight>28</textHeight>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="1,1" cols="0,0">
+              <fontFamily>Segoe+UI</fontFamily>
+              <editIndex>0</editIndex>
+              <text>Username+1</text>
+              <textHeight>28</textHeight>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="1,1" cols="1,1">
+              <fontFamily>Segoe+UI</fontFamily>
+              <editIndex>0</editIndex>
+              <text>Validated</text>
+              <textHeight>28</textHeight>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="2,2" cols="0,0">
+              <fontFamily>Segoe+UI</fontFamily>
+              <editIndex>0</editIndex>
+              <textHeight>30</textHeight>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="2,2" cols="1,1">
+              <fontFamily>Segoe+UI</fontFamily>
+              <editIndex>0</editIndex>
+              <textHeight>30</textHeight>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+          </cells>
+        </control>
+        <control controlID="D1199C92-1BBC-42EB-8223-570F3F283537" controlTypeID="TextInput" x="476" y="890" w="138" h="24" zOrder="14">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Statistics</text>
+          <textAlign>HaCenter</textAlign>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="DD119E30-C53F-48B0-B854-94CE5E6FACCB" controlTypeID="Table" x="375" y="924" w="340" h="209" zOrder="15">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Table</text>
+          <textSize>14</textSize>
+          <textAlign>HaCenter</textAlign>
+          <lineSpacing>0</lineSpacing>
+          <thickness>1</thickness>
+          <dashMode>SdSolid</dashMode>
+          <tableStyle>tsNone</tableStyle>
+          <editIndex>0</editIndex>
+          <rows>
+            <row height="30">
+              <editIndex>0</editIndex>
+              <isAutoRowHeight>True</isAutoRowHeight>
+            </row>
+            <row height="30">
+              <editIndex>0</editIndex>
+              <isAutoRowHeight>True</isAutoRowHeight>
+            </row>
+            <row height="149">
+              <editIndex>0</editIndex>
+              <isAutoRowHeight>False</isAutoRowHeight>
+            </row>
+          </rows>
+          <cols>
+            <col width="170">
+              <editIndex>0</editIndex>
+            </col>
+            <col width="170">
+              <editIndex>0</editIndex>
+            </col>
+          </cols>
+          <cells>
+            <cell rows="0,0" cols="0,0">
+              <fontFamily>Segoe+UI</fontFamily>
+              <editIndex>0</editIndex>
+              <text>Campaigns</text>
+              <textHeight>28</textHeight>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="0,0" cols="1,1">
+              <fontFamily>Segoe+UI</fontFamily>
+              <editIndex>0</editIndex>
+              <text>New+users</text>
+              <textHeight>28</textHeight>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="1,1" cols="0,0">
+              <fontFamily>Segoe+UI</fontFamily>
+              <editIndex>0</editIndex>
+              <text>Marketing</text>
+              <textHeight>28</textHeight>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="1,1" cols="1,1">
+              <fontFamily>Segoe+UI</fontFamily>
+              <editIndex>0</editIndex>
+              <textHeight>30</textHeight>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="2,2" cols="0,0">
+              <fontFamily>Segoe+UI</fontFamily>
+              <editIndex>0</editIndex>
+              <textHeight>30</textHeight>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="2,2" cols="1,1">
+              <fontFamily>Segoe+UI</fontFamily>
+              <editIndex>0</editIndex>
+              <textHeight>30</textHeight>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+          </cells>
+        </control>
+        <control controlID="6C6A0671-8846-4644-8829-F483AB511C99" controlTypeID="Shape" x="0" y="102" w="727" h="28" zOrder="16">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Dashboard</text>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="E6FE6F40-71CB-4DAC-9460-BABA1A8F0444" controlTypeID="IconButton2" x="43" y="742" w="38" h="38" zOrder="17">
+          <groupChildrenDescriptors>
+            <control controlID="585F5939-5476-40A1-806C-DED905F46F52" controlTypeID="Shape" x="0" y="0" w="38" h="38" zOrder="0">
+              <canMove>False</canMove>
+              <alias>shape</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+              <shapeBorderType>SbEllipse</shapeBorderType>
+            </control>
+            <control controlID="1D472B1B-7932-4947-8505-D49582305EE4" controlTypeID="Icon" x="7" y="7" w="24" h="24" zOrder="1">
+              <canMove>False</canMove>
+              <alias>icon</alias>
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62305</iconCode>
+              </icon>
+              <URL>99D18E524D2BEF9446942FB6A373FE26.svg</URL>
+            </control>
+            <control controlID="CB56474B-1A19-46C7-BB1D-002CDCB37920" controlTypeID="Label" x="0" y="2" w="32" h="16" zOrder="2">
+              <canMove>False</canMove>
+              <alias>label</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>Label</text>
+              <textSize>12</textSize>
+              <textAlign>HaCenter</textAlign>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="E23968A6-6AD0-4BEE-812F-2DF35568A653" controlTypeID="Shape" x="25" y="0" w="13" h="13" zOrder="3">
+              <color>4294901760</color>
+              <borderVisible>False</borderVisible>
+              <canMove>False</canMove>
+              <alias>alarm</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>2</text>
+              <textColor>4294967295</textColor>
+              <textSize>8</textSize>
+              <selectedIndex>-1</selectedIndex>
+              <radius>100</radius>
+              <radiusIsPercent>True</radiusIsPercent>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="955B3965-2727-4D35-B0C3-83BB94EF54CE" controlTypeID="IconButton2" x="650" y="742" w="38" h="38" zOrder="18">
+          <groupChildrenDescriptors>
+            <control controlID="26CEABF7-1DF4-4E67-BBE2-006928F03D93" controlTypeID="Shape" x="0" y="0" w="38" h="38" zOrder="0">
+              <canMove>False</canMove>
+              <alias>shape</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+              <shapeBorderType>SbEllipse</shapeBorderType>
+            </control>
+            <control controlID="29E9C803-6365-4399-A0A1-A2B57D01C3B9" controlTypeID="Icon" x="7" y="7" w="24" h="24" zOrder="1">
+              <canMove>False</canMove>
+              <alias>icon</alias>
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62307</iconCode>
+              </icon>
+              <URL>2B26C789AF3EFEA925A6893B9D4A201A.svg</URL>
+            </control>
+            <control controlID="4AD3F1A7-3806-4BA7-B70C-318253075CF4" controlTypeID="Label" x="0" y="2" w="32" h="16" zOrder="2">
+              <canMove>False</canMove>
+              <alias>label</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>Label</text>
+              <textSize>12</textSize>
+              <textAlign>HaCenter</textAlign>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="BFAFD433-F3B2-47E5-B51F-CFC13E0ED793" controlTypeID="Shape" x="25" y="0" w="13" h="13" zOrder="3">
+              <color>4294901760</color>
+              <borderVisible>False</borderVisible>
+              <canMove>False</canMove>
+              <alias>alarm</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>2</text>
+              <textColor>4294967295</textColor>
+              <textSize>8</textSize>
+              <selectedIndex>-1</selectedIndex>
+              <radius>100</radius>
+              <radiusIsPercent>True</radiusIsPercent>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

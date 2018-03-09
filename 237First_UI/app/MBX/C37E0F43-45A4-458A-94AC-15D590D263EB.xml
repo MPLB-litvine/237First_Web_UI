@@ -1,0 +1,224 @@
+﻿<mockup version="5.1" minAllowVersion="5.1" ID="C37E0F43-45A4-458A-94AC-15D590D263EB" platform="MtWeb" defaultW="1100" defaultH="6000" measureW="1100" measureH="6000" mobileScreenScale="0">
+  <controls controlCount="35">
+    <control controlID="4744A5EC-89E9-43CB-BC80-658B82B59991" controlTypeID="__group__" x="90" y="20" w="788" h="696" zOrder="0">
+      <groupChildrenDescriptors>
+        <control controlID="2E8031A7-348E-4BBE-871D-18830C7321AE" controlTypeID="__group__" x="0" y="0" w="788" h="696" zOrder="0">
+          <groupChildrenDescriptors>
+            <control controlID="FDD99F2C-110C-44CD-9D1E-B79EEF11E781" controlTypeID="BrowserWindow" x="0" y="0" w="788" h="696" zOrder="0">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>Browse%0D%0Ahttps%3A%2F%2Fwww.237first.cm</text>
+              <textSize>14</textSize>
+              <textVAlign>VaTop</textVAlign>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="B574BC33-44F0-4697-B002-D6F921BA9E69" controlTypeID="Shape" x="0" y="72" w="788" h="52" zOrder="1">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>++++%0D%0Alogo%0D%0A</text>
+              <textSize>14</textSize>
+              <textAlign>HaLeft</textAlign>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="09AA6238-6950-4BF6-A7C6-543390F52858" controlTypeID="Shape" x="0" y="613" w="788" h="54" zOrder="2">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>+++++++++++++++++++++++++++++%0D%0A%0D%0A+++++about+us++++++++++contact+us+++++++++++jobs+++++++++++++forum%0D%0A%0D%0A+++</text>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="66D26B14-0D78-4766-88E1-B298A823C0A0" controlTypeID="Search" x="590" y="139" w="177" h="26" zOrder="3">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>search</text>
+              <textSize>14</textSize>
+              <textVAlign>VaTop</textVAlign>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="F01359AD-7AC2-422F-94E9-E49B26EEA91D" controlTypeID="Shape" x="0" y="184" w="788" h="98" zOrder="4">
+              <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="15400C63-38A8-415F-ACDC-D4A1412B8756" linkType="ltPageLink" isApplyIncludePage="False" title="Media+player">
+                  <area shape="0" alt="" ID="{76F274B0-98B3-47AA-959F-8184A93747AF}" coords="(0,0,788,98)"/>
+                </link>
+              </links>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="7240E5BF-AA06-4996-937C-F6D6FA0269C8" controlTypeID="Shape" x="0" y="275" w="788" h="98" zOrder="5">
+              <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="15400C63-38A8-415F-ACDC-D4A1412B8756" linkType="ltPageLink" isApplyIncludePage="False" title="Media+player">
+                  <area shape="0" alt="" ID="{6EC3E2AE-E47D-4C21-A990-DD8EBBA4FBC1}" coords="(0,0,788,98)"/>
+                </link>
+              </links>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="8E652533-4A50-43EE-B20E-CE8EA2911624" controlTypeID="Shape" x="0" y="372" w="788" h="98" zOrder="6">
+              <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="15400C63-38A8-415F-ACDC-D4A1412B8756" linkType="ltPageLink" isApplyIncludePage="False" title="Media+player">
+                  <area shape="0" alt="" ID="{CFB24F6D-22EC-41F7-8425-89D98098BA82}" coords="(0,0,788,98)"/>
+                </link>
+              </links>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="0D8C99BF-E563-4C05-B8BE-98B06325EB87" controlTypeID="Shape" x="0" y="470" w="788" h="98" zOrder="7">
+              <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="15400C63-38A8-415F-ACDC-D4A1412B8756" linkType="ltPageLink" isApplyIncludePage="False" title="Media+player">
+                  <area shape="0" alt="" ID="{90F2E4FE-D2E5-406B-BF82-F7283AF453FD}" coords="(0,0,788,98)"/>
+                </link>
+              </links>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="138EB557-ABD7-451A-A489-536B195E70A1" controlTypeID="Image" x="9" y="194" w="74" h="71" zOrder="8"/>
+            <control controlID="672B6AC9-2C22-4BEB-8CE2-3456F9FF4DF5" controlTypeID="Image" x="9" y="292" w="74" h="71" zOrder="9"/>
+            <control controlID="2DEA0DA9-B9A5-4811-82C3-B3B4C90D7486" controlTypeID="Image" x="9" y="384" w="74" h="71" zOrder="10"/>
+            <control controlID="95309CAA-2F51-4341-8F1C-7EF649CE21EF" controlTypeID="Image" x="10" y="486" w="74" h="71" zOrder="11"/>
+            <control controlID="7461254A-4EB5-4A4F-8EA5-DC9C37D5BB02" controlTypeID="Shape" x="90" y="187" w="106" h="17" zOrder="12">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>username</text>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="6C2449BF-5EAE-4655-848E-F6EA216E8E9E" controlTypeID="Shape" x="91" y="208" w="106" h="17" zOrder="13">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>title</text>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="2D42A760-0CB9-4744-A55B-665465C1F5AD" controlTypeID="Shape" x="91" y="229" w="106" h="19" zOrder="14">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>content+type</text>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="D33FAD0D-D59C-43CF-9912-F830318476FE" controlTypeID="Shape" x="92" y="250" w="103" h="16" zOrder="15">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>views</text>
+              <textSize>14</textSize>
+            </control>
+            <control controlID="F9ED369B-0EDF-46B9-91CA-06D725244DFB" controlTypeID="Shape" x="92" y="286" w="106" h="17" zOrder="16">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>username</text>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="30373A16-4F8B-4F7F-954A-FD34D3DEF278" controlTypeID="Shape" x="93" y="307" w="106" h="17" zOrder="17">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>title</text>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="B838ADB7-72E3-4BD4-8884-FE889515369F" controlTypeID="Shape" x="93" y="328" w="106" h="19" zOrder="18">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>content+type</text>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="C8079F3B-8C67-481F-A194-A884DD6DDE8B" controlTypeID="Shape" x="94" y="349" w="103" h="16" zOrder="19">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>views</text>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="00FC8A81-FF81-4C4E-9A53-2690B7A303CD" controlTypeID="Shape" x="91" y="384" w="106" h="17" zOrder="20">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>username</text>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="4EB097FC-A4E4-48C0-BD41-FDB48374170F" controlTypeID="Shape" x="92" y="405" w="106" h="17" zOrder="21">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>title</text>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="1A8F1BA1-43CF-4563-9ADE-C8D7E2465261" controlTypeID="Shape" x="92" y="426" w="106" h="19" zOrder="22">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>content+type</text>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="3BD09D3D-E8A6-44D7-BAD5-C87F5A72ABB7" controlTypeID="Shape" x="93" y="447" w="103" h="16" zOrder="23">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>views</text>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="D45633FF-45F1-462E-A228-307317645683" controlTypeID="Shape" x="92" y="481" w="106" h="17" zOrder="24">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>username</text>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="450631AE-EF9E-4058-8E7A-20518F912945" controlTypeID="Shape" x="93" y="502" w="106" h="17" zOrder="25">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>title</text>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="EE674A45-948E-4EB1-8BCC-D0164F273B33" controlTypeID="Shape" x="93" y="523" w="106" h="19" zOrder="26">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>content+type</text>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="7D52AF04-1B1E-4ECE-BB22-500DFD9D048B" controlTypeID="Shape" x="94" y="544" w="103" h="16" zOrder="27">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>views</text>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="E593FD6D-E09A-44C9-8A4D-C1FDFC9FC1BC" controlTypeID="Icon" x="764" y="244" w="21" h="21" zOrder="1">
+          <icon>
+            <ID/>
+            <iconFontName>jdIonicons</iconFontName>
+            <iconCode>62359</iconCode>
+          </icon>
+          <URL>92A37C37F1C55861F795B008D0D7225E.svg</URL>
+        </control>
+        <control controlID="5C55BDA3-0F77-44C1-9270-F6DD4F5070B8" controlTypeID="Icon" x="764" y="336" w="21" h="21" zOrder="2">
+          <icon>
+            <ID/>
+            <iconFontName>jdIonicons</iconFontName>
+            <iconCode>62359</iconCode>
+          </icon>
+          <URL>92A37C37F1C55861F795B008D0D7225E.svg</URL>
+        </control>
+        <control controlID="A5B552DA-C462-4942-B870-D79E0D96995B" controlTypeID="Icon" x="766" y="438" w="21" h="21" zOrder="3">
+          <icon>
+            <ID/>
+            <iconFontName>jdIonicons</iconFontName>
+            <iconCode>62359</iconCode>
+          </icon>
+          <URL>92A37C37F1C55861F795B008D0D7225E.svg</URL>
+        </control>
+        <control controlID="0B426145-8234-447C-BB12-57E42E73D37F" controlTypeID="Icon" x="765" y="532" w="21" h="21" zOrder="4">
+          <icon>
+            <ID/>
+            <iconFontName>jdIonicons</iconFontName>
+            <iconCode>62359</iconCode>
+          </icon>
+          <URL>92A37C37F1C55861F795B008D0D7225E.svg</URL>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="CA62F7DD-0057-4ABF-B67E-2BE5FEB78820" controlTypeID="List" x="880" y="259" w="168" h="104" zOrder="1">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>artist+page%0D%0Aadd+to+library%0D%0Ashare%0D%0Adownload</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

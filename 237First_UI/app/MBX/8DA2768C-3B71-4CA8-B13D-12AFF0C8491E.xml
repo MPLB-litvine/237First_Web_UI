@@ -1,0 +1,76 @@
+﻿<mockup version="5.1" minAllowVersion="5.1" ID="8DA2768C-3B71-4CA8-B13D-12AFF0C8491E" platform="MtWeb" defaultW="1100" defaultH="6000" measureW="1100" measureH="6000" mobileScreenScale="0">
+  <controls controlCount="11">
+    <control controlID="4EC9BC78-AB1F-4E48-91AD-711C74C73FE7" controlTypeID="__group__" x="98" y="20" w="820" h="695" zOrder="0">
+      <groupChildrenDescriptors>
+        <control controlID="32DB29EA-9A92-4C58-AF7A-54C7B0D40A7B" controlTypeID="__group__" x="0" y="0" w="820" h="695" zOrder="0">
+          <groupChildrenDescriptors>
+            <control controlID="87723CD6-DDA9-4CA3-8FC3-40964C97D524" controlTypeID="BrowserWindow" x="0" y="0" w="820" h="695" zOrder="0">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>CONTACT+US%0D%0Ahttps%3A%2F%2Fwww.237first.cm</text>
+              <textSize>14</textSize>
+              <textVAlign>VaTop</textVAlign>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="D1D8977B-C529-49EE-AD56-5E6F4224B4A4" controlTypeID="Shape" x="0" y="612" w="820" h="58" zOrder="1">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>+++++++++++++++++++++++++++++%0D%0A%0D%0A+++++about+us++++++++++contact+us+++++++++++jobs+++++++++++++forum%0D%0A%0D%0A+++</text>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="4DCD34F3-4D2D-4C7C-BFCB-9E217D1D3B6B" controlTypeID="Shape" x="0" y="73" w="820" h="82" zOrder="2">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>++++%0D%0A++++logo%0D%0A</text>
+              <textSize>14</textSize>
+              <textAlign>HaLeft</textAlign>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="8D034842-D59B-4219-BA14-64235628D9E2" controlTypeID="Shape" x="188" y="161" w="444" h="85" zOrder="1">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>CONTACT+US</text>
+          <textSize>14</textSize>
+        </control>
+        <control controlID="A6F25EE0-83FA-41D1-9C7E-04B327F45FBA" controlTypeID="GroupBox" x="23" y="256" w="775" h="336" zOrder="2">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Send+us+a+message</text>
+          <textSize>14</textSize>
+          <textVAlign>VaTop</textVAlign>
+          <lineSpacing>0</lineSpacing>
+        </control>
+        <control controlID="8D2FB3EE-5991-4B41-A3C8-84CB18A878DF" controlTypeID="LabelTextInput" x="39" y="298" w="280" h="24" zOrder="3">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>full+name%2C+Matt</text>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+        </control>
+        <control controlID="CD36D177-0CAF-489D-A0F7-FAE868E240A7" controlTypeID="LabelTextInput" x="39" y="351" w="280" h="24" zOrder="4">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>email%2C+Matt</text>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="052F5571-30E7-4B1E-A6D0-9D31C105EE5D" controlTypeID="TextInput" x="39" y="401" w="742" h="106" zOrder="5">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>message</text>
+          <textAlign>HaCenter</textAlign>
+          <lineSpacing>0</lineSpacing>
+        </control>
+        <control controlID="F693EC38-98F6-4155-9C29-95505CCFA9D5" controlTypeID="Button" x="375" y="537" w="70" h="28" zOrder="6">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>send</text>
+          <lineSpacing>0</lineSpacing>
+          <radius>4</radius>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

@@ -1,0 +1,38 @@
+﻿<mockup version="5.1" minAllowVersion="5.1" ID="52A924AD-1793-4914-B3A3-DDA3AB714C40" platform="MtWeb" defaultW="1100" defaultH="6000" measureW="1100" measureH="6000" mobileScreenScale="0">
+  <controls controlCount="4">
+    <control controlID="5BEC5562-BC56-4234-B000-D8059F2BAA2B" controlTypeID="BrowserWindow" x="214" y="2" w="671" h="1117" zOrder="0">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>237First%0D%0Ahttps%3A%2F%2Fwww.237first.cm</text>
+      <textSize>14</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="5BE3694B-614F-46F8-A388-23BB46B4480D" controlTypeID="Tab" x="214" y="116" w="671" h="911" zOrder="1">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>My+Playlist%2C+My+Library%2C+Network%2C+Statistics</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+    </control>
+    <control controlID="692B0A5A-32E2-42D1-8BAB-30BB94644949" controlTypeID="Shape" x="214" y="74" w="671" h="42" zOrder="2">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>++++logo%0D%0A</text>
+      <textSize>14</textSize>
+      <textAlign>HaLeft</textAlign>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="AEBF6766-4821-45D1-A87B-4E0863C361DB" controlTypeID="Shape" x="214" y="1027" w="671" h="62" zOrder="3">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>+++++++++++++++++++++++++++++%0D%0A%0D%0A+++++++++++++++++++++++++++about+us++++++++++++++++++++++++++++++++++++++++++++contact+us++++++++++++++++++++++++++++++++++++++++jobs++%0D%0A%0D%0A+++</text>
+      <textSize>14</textSize>
+      <textAlign>HaLeft</textAlign>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

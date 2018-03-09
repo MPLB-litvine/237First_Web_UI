@@ -1,0 +1,192 @@
+﻿<mockup version="5.1" minAllowVersion="5.1" ID="BD6C6D2A-BE4A-43F5-8BA7-26AFF38B3189" platform="MtWeb" defaultW="1100" defaultH="6000" measureW="1100" measureH="6000" mobileScreenScale="0">
+  <controls controlCount="18">
+    <control controlID="BEAB78AA-D82D-40FE-83E4-8981DAE65B01" controlTypeID="__group__" x="36" y="10" w="935" h="681" zOrder="0">
+      <groupChildrenDescriptors>
+        <control controlID="7E86981E-BBEF-41A3-9B91-1BBB64EBC550" controlTypeID="__group__" x="0" y="0" w="935" h="681" zOrder="0">
+          <groupChildrenDescriptors>
+            <control controlID="9A888A26-281E-4382-98E6-08682A009531" controlTypeID="BrowserWindow" x="0" y="0" w="935" h="681" zOrder="0">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>About+Us%0D%0Ahttps%3A%2F%2Fwww.237first.cm</text>
+              <textSize>14</textSize>
+              <textVAlign>VaTop</textVAlign>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="3E54567A-9FDF-4B3A-8AC6-3E7C4F69CE45" controlTypeID="Shape" x="0" y="72" w="934" h="26" zOrder="1">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>%0D%0A+++++++logo%0D%0A</text>
+              <textSize>14</textSize>
+              <textAlign>HaLeft</textAlign>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="D544DA23-E260-4CF8-9416-24B01A6E68FC" controlTypeID="Shape" x="0" y="605" w="935" h="49" zOrder="2">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>+++++++++++++++++++++++++++++%0D%0A%0D%0A+++++about+us++++++++++contact+us+++++++++++jobs+++++++++++++forum%0D%0A%0D%0A+++</text>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="E391E7D1-2F59-4C9A-BAAC-291A449F8F23" controlTypeID="VerticalTabBar" x="0" y="98" w="935" h="507" zOrder="3">
+              <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="FA499CA4-330D-4DBE-84D7-5FB041A3AFA5" linkType="ltPageLink" isApplyIncludePage="False" title="Settings">
+                  <area shape="0" alt="" ID="{8C6829CD-901C-424E-A8B9-941EE1059D93}" coords="(0,0,94,25)"/>
+                </link>
+                <link targetPageID="F3014A0C-4BBB-45EE-8295-347CD65D5715" linkType="ltPageLink" isApplyIncludePage="False" title="Settings+-+About+us+-+Privacy+Policy">
+                  <area shape="0" alt="" ID="{9C58EF6C-AFB2-4D47-AE3A-F1D99CC47162}" coords="(0,24,94,49)"/>
+                </link>
+                <link targetPageID="D8D2A0DF-E082-4DF9-8E31-CDC671B65327" linkType="ltPageLink" isApplyIncludePage="False" title="My+Account">
+                  <area shape="0" alt="" ID="{2E931983-9A39-4FA0-8895-2211A0743E4F}" coords="(0,48,94,73)"/>
+                </link>
+                <link targetPageID="CC675418-A0DF-41C0-AFB0-2566B8FEEA40" linkType="ltPageLink" isApplyIncludePage="False" title="Storage">
+                  <area shape="0" alt="" ID="{1FB22F7B-E377-496A-9889-DDC51B43FB50}" coords="(0,72,94,97)"/>
+                </link>
+              </links>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>Notifications%2C+About+Us%2C+My+Account%2C+Storage</text>
+              <textSize>14</textSize>
+              <lineSpacing>0</lineSpacing>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="8052EE86-4D3D-47CA-A9E5-DC218A06E5BA" controlTypeID="Tab" x="94" y="98" w="841" h="507" zOrder="1">
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="F3014A0C-4BBB-45EE-8295-347CD65D5715" linkType="ltPageLink" isApplyIncludePage="False" title="Settings+-+About+us+-+Privacy+Policy">
+              <area shape="0" alt="" ID="{B7719DE5-F4F7-442C-B549-F963D0D66817}" coords="(0,0,99,18)"/>
+            </link>
+            <link targetPageID="BEB5647D-10D6-40E6-A5A4-2D12B70B94A0" linkType="ltPageLink" isApplyIncludePage="False" title="Settings+-+Terms+of+Service">
+              <area shape="0" alt="" ID="{81E4EFAE-AF05-4791-B13E-C25FC0B92315}" coords="(98,0,219,18)"/>
+            </link>
+            <link targetPageID="3AD73DF3-3F11-4565-BB58-803AA8DA690D" linkType="ltPageLink" isApplyIncludePage="False" title="Settings+-+Copyright+Policy">
+              <area shape="0" alt="" ID="{2E74F6C8-B522-40BF-A44C-51693667ACB8}" coords="(218,0,339,18)"/>
+            </link>
+            <link targetPageID="BD6C6D2A-BE4A-43F5-8BA7-26AFF38B3189" linkType="ltPageLink" isApplyIncludePage="False" title="Settings+-+Help">
+              <area shape="0" alt="" ID="{60312F03-ED5E-4211-80B5-311D310293E9}" coords="(338,0,386,18)"/>
+            </link>
+          </links>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Privacy+Policy%2C+Terms+of+Service%2C+Copyright+Policy%2C+Help</text>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="493561C7-44D3-4897-961D-291888F532A6" controlTypeID="Search" x="746" y="149" w="213" h="24" zOrder="1">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>search</text>
+      <textSize>14</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="6B06DDD3-9796-495E-B152-D80FA3715934" controlTypeID="Shape" x="141" y="327" w="249" h="120" zOrder="2">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="1E5371BE-9B52-43A5-86C6-90B0632BDCF5" linkType="ltPageLink" isApplyIncludePage="False" title="FAQ">
+          <area shape="0" alt="" ID="{DA8BD533-18BF-420A-A3B0-9DB07A39E3CE}" coords="(0,0,249,120)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>FAQ</text>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="FA101ABC-CA56-4015-843E-0B8BB02A7DD4" controlTypeID="Shape" x="141" y="457" w="249" h="120" zOrder="3">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="ADDA050E-509F-4C07-BD94-36CD4AD03202" linkType="ltPageLink" isApplyIncludePage="False" title="Forum">
+          <area shape="0" alt="" ID="{BE2DCB9A-D505-4532-8BFD-D6F0D631CEC2}" coords="(0,0,249,120)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>FORUM</text>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="24A9A01D-8531-4969-9FBC-F9D82D174B30" controlTypeID="Shape" x="141" y="197" w="249" h="120" zOrder="4">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="C8F6E9B8-A67F-4C6B-95D1-93C18AF40E2E" linkType="ltPageLink" isApplyIncludePage="False" title="Navigating+the+site">
+          <area shape="0" alt="" ID="{6A358EF4-53A4-476E-A35E-8004D859ED1E}" coords="(0,0,249,120)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>NAVIGATING+THE+SITE</text>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="DC5E25CF-AB47-4CDA-A484-C8A0E3748C43" controlTypeID="Shape" x="400" y="457" w="291" h="120" zOrder="5">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="F13A7040-007A-4EA4-9E0E-0D4E7FCD2E4E" linkType="ltPageLink" isApplyIncludePage="False" title="Account+Help">
+          <area shape="0" alt="" ID="{C73AF521-09FB-4E4C-B3AC-CBB82BC97FED}" coords="(0,0,291,120)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>ACCOUNT+HELP</text>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="82424AD4-051B-4238-962B-96043A3BED57" controlTypeID="Shape" x="400" y="327" w="291" h="120" zOrder="6">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="842134DB-8C46-4A7E-A2DC-B159950832E1" linkType="ltPageLink" isApplyIncludePage="False" title="Guidelines">
+          <area shape="0" alt="" ID="{BA8B3F9E-6FFC-451F-8258-8209ADE45B41}" coords="(0,0,291,120)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>GUIDELINES</text>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="93847DC8-E234-4208-B2FD-018B6F891F33" controlTypeID="Shape" x="400" y="197" w="291" h="120" zOrder="7">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="9EEE38B6-E477-4197-8533-16AFEFAF93BE" linkType="ltPageLink" isApplyIncludePage="False" title="Navigating+the+App">
+          <area shape="0" alt="" ID="{5B2BBC21-B95B-45C1-A51E-EA9308F758A0}" coords="(0,0,291,120)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>NAVIGATING+OUR+APP</text>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="98864A1F-A8EC-474F-8301-03AE5D517671" controlTypeID="Shape" x="701" y="457" w="258" h="120" zOrder="8">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="3FBAD0CD-64F3-45EC-AC2C-8393AC71E0E1" linkType="ltPageLink" isApplyIncludePage="False" title="Upgrading">
+          <area shape="0" alt="" ID="{B4E09B56-C932-4464-AC17-3BAB72244302}" coords="(0,0,258,120)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>UPGRADING</text>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="3865535A-429F-4CC7-B34D-B6F0F24E91D2" controlTypeID="Shape" x="701" y="327" w="258" h="120" zOrder="9">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="13EB0B3D-5AB7-418D-B9CD-9BD14BD18F35" linkType="ltPageLink" isApplyIncludePage="False" title="Payment">
+          <area shape="0" alt="" ID="{3D0B0DEE-91E6-4060-9A46-96BA00E2068F}" coords="(0,0,258,120)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>PAYMENT</text>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="F28F8882-742A-4D1E-9B86-327473B5B17D" controlTypeID="Shape" x="701" y="197" w="258" h="120" zOrder="10">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="171A94E3-CFC6-4D39-A8DD-7D0EB258A65A" linkType="ltPageLink" isApplyIncludePage="False" title="Our+Features">
+          <area shape="0" alt="" ID="{80632582-6A97-4CE9-B8CD-57F6C2540478}" coords="(0,0,258,120)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>OUR+FEATURES</text>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="4973FD22-A7B9-4552-900D-71BF36F63076" controlTypeID="Shape" x="447" y="131" w="206" h="56" zOrder="11">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>HELP+%3F</text>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

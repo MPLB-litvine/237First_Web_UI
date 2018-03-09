@@ -1,0 +1,301 @@
+﻿<mockup version="5.1" minAllowVersion="5.1" ID="2F869496-7AD4-4432-9D92-AFE1289809E1" platform="MtWeb" defaultW="1100" defaultH="6000" measureW="1100" measureH="6000" mobileScreenScale="0">
+  <controls controlCount="40">
+    <control controlID="389808B2-996D-48F9-B7D4-A9A068499AE8" controlTypeID="__group__" x="27" y="26" w="966" h="1196" zOrder="0">
+      <groupChildrenDescriptors>
+        <control controlID="1C14C06E-FD1C-42D3-9F7C-7038A4B154A8" controlTypeID="BrowserWindow" x="1" y="0" w="964" h="1196" zOrder="0">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Many-to-Many+investment%0D%0Ahttps%3A%2F%2Fwww.237first.cm</text>
+          <textSize>14</textSize>
+          <textVAlign>VaTop</textVAlign>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="DD42C70E-6A23-4C18-8F9D-237E2091360C" controlTypeID="GroupBox" x="21" y="210" w="937" h="922" zOrder="1">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Fill+the+request+form</text>
+          <textSize>14</textSize>
+          <textVAlign>VaTop</textVAlign>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="727DAE24-772D-4732-802E-D652AA7E8BB8" controlTypeID="Shape" x="1" y="72" w="963" h="28" zOrder="2">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>+++%0D%0A+++logo%0D%0A</text>
+          <textSize>14</textSize>
+          <textAlign>HaLeft</textAlign>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="D9EA657B-192A-4A71-A41B-D86E21E74096" controlTypeID="Shape" x="2" y="1132" w="964" h="36" zOrder="3">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>+++++++++++++++++++++++++++++%0D%0A++++%0D%0A+about+us++++++++++contact+us+++++++++++jobs+++++++++++++forum%0D%0A%0D%0A+++</text>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="64858E01-9316-4DCC-BFF6-D80676E22D4B" controlTypeID="Shape" x="0" y="100" w="964" h="110" zOrder="4">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Start+a+many-to-many+investment+by+submitting+a+request+to+our+investment+team.%0D%0AYou+will+be+contacted+via+mail.</text>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="F9FFC6F0-89A5-4854-8BEC-854234721F21" controlTypeID="LabelTextInput" x="348" y="281" w="280" h="24" zOrder="5">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Investor+1+Name+*%2C+Matt</text>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="98A279A0-5BC0-4BB4-AEE2-CE9FAFDC255E" controlTypeID="LabelTextInput" x="349" y="315" w="280" h="24" zOrder="6">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Job+*%2C+Matt</text>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="D53A6524-E276-496C-8967-9C9D0187BDE4" controlTypeID="LabelTextInput" x="663" y="315" w="280" h="24" zOrder="7">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Country+*</text>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="D731FAB1-711A-4503-A657-FAA703865CB0" controlTypeID="LabelTextInput" x="349" y="349" w="280" h="24" zOrder="8">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Address+*%2C+Matt</text>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="71C44742-F4FE-46EF-A199-BD1CA99D2F6B" controlTypeID="LabelTextInput" x="349" y="461" w="280" h="24" zOrder="9">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Mobile+Number+*%2C+Matt</text>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="BE84F5E4-1D05-4CF9-97F6-8264C59120D7" controlTypeID="LabelTextInput" x="663" y="463" w="280" h="24" zOrder="10">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Office+number+*%2C+Matt</text>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="46DFFDCF-B957-43CF-8151-A7E80AB6C754" controlTypeID="LabelTextInput" x="25" y="349" w="260" h="24" zOrder="11">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Website%2C+Matt</text>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="10105CF6-95AF-4AB0-91DF-B238785D9108" controlTypeID="LabelTextInput" x="663" y="281" w="280" h="24" zOrder="12">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Company+*%2C+Matt</text>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="58E46262-FD73-49AB-93AA-28BD9DFFDCE1" controlTypeID="DateTimePicker" x="766" y="349" w="177" h="24" zOrder="13">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>03+%2F+10+%2F+2014</text>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="76CFE88D-E4FC-4055-AF05-04972F343AF2" controlTypeID="Shape" x="663" y="349" w="93" h="24" zOrder="14">
+          <borderVisible>False</borderVisible>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Date+of+birth+*</text>
+          <textSize>14</textSize>
+          <textAlign>HaLeft</textAlign>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="A017D1B9-4DFD-4020-80A7-FDC7729137C6" controlTypeID="CompositeComboBox" x="85" y="315" w="200" h="24" zOrder="15">
+          <groupChildrenDescriptors>
+            <control controlID="5DAC49BA-C36D-465A-A683-7B58AE3320AB" controlTypeID="TextInput" x="0" y="0" w="177" h="24" zOrder="0">
+              <locked>True</locked>
+              <canMove>False</canMove>
+              <alias>input</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>Male</text>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="C5EC2758-DC9F-4AF3-98CB-30A0D901A3E2" controlTypeID="Button" x="176" y="0" w="24" h="24" zOrder="1">
+              <locked>True</locked>
+              <canMove>False</canMove>
+              <alias>button</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+              <radius>0</radius>
+            </control>
+            <control controlID="589F0218-E899-4AB8-BACB-6992F9490A1F" controlTypeID="List" x="0" y="24" w="200" h="50" zOrder="2">
+              <isShow>False</isShow>
+              <canMove>False</canMove>
+              <alias>dropDown</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>Male%0D%0AFemale%0D%0A</text>
+              <textSize>14</textSize>
+              <lineSpacing>0</lineSpacing>
+              <itemHeight>24</itemHeight>
+              <interlaceColor>4294967295</interlaceColor>
+            </control>
+          </groupChildrenDescriptors>
+          <baseHeight>24</baseHeight>
+          <font family="Segoe+UI"/>
+          <textSize>14</textSize>
+        </control>
+        <control controlID="70D3AEDB-8403-4859-BFA6-92CA4D60D17B" controlTypeID="Shape" x="25" y="315" w="50" h="24" zOrder="16">
+          <borderVisible>False</borderVisible>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Sex+*</text>
+          <textSize>14</textSize>
+          <textAlign>HaLeft</textAlign>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="7DCBFF37-BE1D-488A-830B-4BA75C9C8C39" controlTypeID="TextArea" x="26" y="531" w="167" h="26" zOrder="17">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Purpose+of+investment+*</text>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="C0E8FFE0-2805-4A0D-8893-B2C4553F7540" controlTypeID="TextInput" x="25" y="552" w="918" h="163" zOrder="18">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="24AA6EA3-6D9B-467F-88D8-FBFF8C06FF3D" controlTypeID="TextArea" x="25" y="745" w="140" h="22" zOrder="19">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Goal+of+investment+*</text>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="1F6A174C-2AD5-4A78-9A02-B717D8E9A9DC" controlTypeID="TextInput" x="25" y="767" w="918" h="213" zOrder="20">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="C06797C4-72EB-4428-AC66-D387595B64C0" controlTypeID="Button" x="488" y="1081" w="70" h="28" zOrder="21">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>SUBMIT</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+          <radius>4</radius>
+        </control>
+        <control controlID="3871F0EC-D1D6-45A3-99EE-8EF97DC6C701" controlTypeID="NumericStepper" x="167" y="286" w="118" h="24" zOrder="22">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>3</text>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="DB3AC610-9CD5-4BB6-9E03-F36B9F545905" controlTypeID="TextArea" x="25" y="286" w="160" h="24" zOrder="23">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Number+of+investors</text>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="0F3DC0EB-97F2-454F-9C01-0E8BD67A6182" controlTypeID="CompositeComboBox" x="25" y="460" w="260" h="24" zOrder="24">
+          <groupChildrenDescriptors>
+            <control controlID="529FA3C0-5B05-46AF-8411-B14AC7B7DFF9" controlTypeID="TextInput" x="0" y="0" w="237" h="24" zOrder="0">
+              <locked>True</locked>
+              <canMove>False</canMove>
+              <alias>input</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>Investor+1</text>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="710AEC70-A0A0-477C-AA21-87963294FF88" controlTypeID="Button" x="236" y="0" w="24" h="24" zOrder="1">
+              <locked>True</locked>
+              <canMove>False</canMove>
+              <alias>button</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+              <radius>0</radius>
+            </control>
+            <control controlID="BFF7E9BA-4886-4587-8563-3A1F2D0231C9" controlTypeID="List" x="0" y="24" w="260" h="98" zOrder="2">
+              <isShow>False</isShow>
+              <canMove>False</canMove>
+              <alias>dropDown</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>Investor+1%0D%0AInvestor+2+%0D%0AInvestor+3%0D%0AInvestor+4</text>
+              <textSize>14</textSize>
+              <lineSpacing>0</lineSpacing>
+              <itemHeight>24</itemHeight>
+              <interlaceColor>4294967295</interlaceColor>
+            </control>
+          </groupChildrenDescriptors>
+          <baseHeight>24</baseHeight>
+          <font family="Segoe+UI"/>
+          <textSize>14</textSize>
+        </control>
+        <control controlID="53F925FF-07E7-4907-9A22-A82575E2C148" controlTypeID="Button" x="873" y="497" w="70" h="28" zOrder="25">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>ADD</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+          <radius>4</radius>
+        </control>
+        <control controlID="2E149C7D-2C03-4699-9004-AFF7712BE01E" controlTypeID="TextArea" x="25" y="395" w="676" h="55" zOrder="26">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Select+each+investor+and+enter+their+email+and+mobile+numbers.+Then+add+them+to+the+list+of+investors.%0D%0AYou+can+add+all+the+investors+you+choose.%0D%0AHint%3A+You+are+investor+1</text>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="5C8F1809-B4D5-4662-BBBE-B155D962B1B5" controlTypeID="Shape" x="27" y="1016" w="90" h="24" zOrder="27">
+          <borderVisible>False</borderVisible>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Select+artists</text>
+          <textSize>14</textSize>
+          <textAlign>HaLeft</textAlign>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="F774CD11-0AFE-4DB5-A38B-5D31EE11D3D6" controlTypeID="CompositeComboBox" x="117" y="1016" w="541" h="24" zOrder="28">
+          <groupChildrenDescriptors>
+            <control controlID="809988A9-2CFC-4B8F-827B-6D4119410BF4" controlTypeID="TextInput" x="0" y="0" w="518" h="24" zOrder="0">
+              <canMove>False</canMove>
+              <alias>input</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>Item1</text>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="E669A0B6-5920-48EE-8C4B-696D58789F5E" controlTypeID="Button" x="517" y="0" w="24" h="24" zOrder="1">
+              <canMove>False</canMove>
+              <alias>button</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+              <radius>0</radius>
+            </control>
+            <control controlID="B67FF769-5A31-405F-A86B-E2EFEC800916" controlTypeID="List" x="0" y="24" w="541" h="252" zOrder="2">
+              <isShow>False</isShow>
+              <canMove>False</canMove>
+              <alias>dropDown</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>Item1%0D%0AItem2%0D%0AItem3%0D%0AItem4</text>
+              <textSize>14</textSize>
+              <lineSpacing>0</lineSpacing>
+              <itemHeight>24</itemHeight>
+              <interlaceColor>4294967295</interlaceColor>
+            </control>
+          </groupChildrenDescriptors>
+          <baseHeight>24</baseHeight>
+          <font family="Segoe+UI"/>
+          <textSize>14</textSize>
+        </control>
+        <control controlID="D3DD585C-7FB0-4C9B-B629-F1488C3F3BEF" controlTypeID="Button" x="662" y="1019" w="24" h="19" zOrder="29">
+          <borderColor>4288256409</borderColor>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%3F</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+          <radius>4</radius>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

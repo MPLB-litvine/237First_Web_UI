@@ -1,0 +1,61 @@
+﻿<mockup version="5.1" minAllowVersion="5.1" ID="B2828CC3-9432-4094-9C82-E13ADC4D7938" platform="MtWeb" defaultW="1100" defaultH="6000" measureW="1100" measureH="6000" mobileScreenScale="0">
+  <controls controlCount="6">
+    <control controlID="D73364FB-578E-4EE6-9433-35FE1627B242" controlTypeID="__group__" x="331" y="128" w="379" h="285" zOrder="0">
+      <groupChildrenDescriptors>
+        <control controlID="6B2E19C7-019C-4FD5-B9D2-32E07745E551" controlTypeID="Shape" x="0" y="0" w="379" h="285" zOrder="0">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="C5C259D1-D5D3-4A7B-8AE6-0F7D3A97BE18" controlTypeID="Shape" x="0" y="0" w="379" h="70" zOrder="1">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>LOGIN+</text>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="D846FEF2-8626-467D-B407-3D59ACAC4336" controlTypeID="Button" x="154" y="107" w="70" h="28" zOrder="2">
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="36FA1EF0-0E04-45B4-BE8A-4866F53E8FAC" linkType="ltPageLink" isApplyIncludePage="False" title="Sign+in">
+              <area shape="0" alt="" ID="{5A1B6792-4267-4CD7-8E47-42591A9CA0D8}" coords="(0,0,70,28)"/>
+            </link>
+          </links>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>SIGN+IN</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+          <radius>4</radius>
+        </control>
+        <control controlID="BDFB2D43-D2B7-4DEA-8037-2BC5A96FFD88" controlTypeID="Button" x="154" y="158" w="70" h="28" zOrder="3">
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="EFB6BA77-C86B-41E8-934D-CB483FB36F38" linkType="ltPageLink" isApplyIncludePage="False" title="Sign+Up">
+              <area shape="0" alt="" ID="{303BE113-6A14-41E2-976A-424A9FA7A8B4}" coords="(0,0,70,28)"/>
+            </link>
+          </links>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>SIGN+UP</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+          <radius>4</radius>
+        </control>
+        <control controlID="C54AA619-8611-455E-971E-9D822876064A" controlTypeID="Button" x="154" y="208" w="70" h="28" zOrder="4">
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="91063686-E491-4C90-9812-31C9BD5AAF0B" linkType="ltPageLink" isApplyIncludePage="False" title="HomePage">
+              <area shape="0" alt="" ID="{A52B8EF8-0A10-4D12-A47F-2FB23DA69297}" coords="(0,0,70,28)"/>
+            </link>
+          </links>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>CONTINUE</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+          <radius>4</radius>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

@@ -1,0 +1,85 @@
+﻿<mockup version="5.1" minAllowVersion="5.1" ID="F3014A0C-4BBB-45EE-8295-347CD65D5715" platform="MtWeb" defaultW="1100" defaultH="6000" measureW="1100" measureH="6000" mobileScreenScale="0">
+  <controls controlCount="8">
+    <control controlID="BEAB78AA-D82D-40FE-83E4-8981DAE65B01" controlTypeID="__group__" x="34" y="10" w="935" h="681" zOrder="0">
+      <groupChildrenDescriptors>
+        <control controlID="7E86981E-BBEF-41A3-9B91-1BBB64EBC550" controlTypeID="__group__" x="0" y="0" w="935" h="681" zOrder="0">
+          <groupChildrenDescriptors>
+            <control controlID="9A888A26-281E-4382-98E6-08682A009531" controlTypeID="BrowserWindow" x="0" y="0" w="935" h="681" zOrder="0">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>About+Us%0D%0Ahttps%3A%2F%2Fwww.237first.cm</text>
+              <textSize>14</textSize>
+              <textVAlign>VaTop</textVAlign>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="3E54567A-9FDF-4B3A-8AC6-3E7C4F69CE45" controlTypeID="Shape" x="0" y="72" w="934" h="26" zOrder="1">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>%0D%0A+++++++logo%0D%0A</text>
+              <textSize>14</textSize>
+              <textAlign>HaLeft</textAlign>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="D544DA23-E260-4CF8-9416-24B01A6E68FC" controlTypeID="Shape" x="0" y="605" w="935" h="49" zOrder="2">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>+++++++++++++++++++++++++++++%0D%0A%0D%0A+++++about+us++++++++++contact+us+++++++++++jobs+++++++++++++forum%0D%0A%0D%0A+++</text>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="E391E7D1-2F59-4C9A-BAAC-291A449F8F23" controlTypeID="VerticalTabBar" x="0" y="98" w="935" h="507" zOrder="3">
+              <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="FA499CA4-330D-4DBE-84D7-5FB041A3AFA5" linkType="ltPageLink" isApplyIncludePage="False" title="Notifications">
+                  <area shape="0" alt="" ID="{1044FCB2-7516-407E-81AB-3D398AD30A95}" coords="(0,0,94,25)"/>
+                </link>
+                <link targetPageID="F3014A0C-4BBB-45EE-8295-347CD65D5715" linkType="ltPageLink" isApplyIncludePage="False" title="Settings+-+About+us+-+Privacy+Policy">
+                  <area shape="0" alt="" ID="{9DB778D7-9157-4EFF-9604-B60BCB45DC9E}" coords="(0,24,94,49)"/>
+                </link>
+                <link targetPageID="D8D2A0DF-E082-4DF9-8E31-CDC671B65327" linkType="ltPageLink" isApplyIncludePage="False" title="My+Account">
+                  <area shape="0" alt="" ID="{3D159C32-F897-4987-BC81-38799E85029A}" coords="(0,48,94,73)"/>
+                </link>
+                <link targetPageID="CC675418-A0DF-41C0-AFB0-2566B8FEEA40" linkType="ltPageLink" isApplyIncludePage="False" title="+Storage">
+                  <area shape="0" alt="" ID="{F0B379BC-4E49-4F0D-B3CE-6AD045F2FC65}" coords="(0,72,94,97)"/>
+                </link>
+              </links>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>Notifications%2C+About+Us%2C+My+Account%2C+Storage</text>
+              <textSize>14</textSize>
+              <lineSpacing>0</lineSpacing>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="8052EE86-4D3D-47CA-A9E5-DC218A06E5BA" controlTypeID="Tab" x="94" y="98" w="841" h="507" zOrder="1">
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="F3014A0C-4BBB-45EE-8295-347CD65D5715" linkType="ltPageLink" isApplyIncludePage="False" title="Privacy+Policy">
+              <area shape="0" alt="" ID="{142021CB-E9C9-42E7-9482-6B0646E603F8}" coords="(0,0,99,18)"/>
+            </link>
+            <link targetPageID="BEB5647D-10D6-40E6-A5A4-2D12B70B94A0" linkType="ltPageLink" isApplyIncludePage="False" title="+Terms+of+Service">
+              <area shape="0" alt="" ID="{480A7659-7C0C-460D-BDE6-FFC522761758}" coords="(98,0,219,18)"/>
+            </link>
+            <link targetPageID="3AD73DF3-3F11-4565-BB58-803AA8DA690D" linkType="ltPageLink" isApplyIncludePage="False" title="+Copyright+Policy">
+              <area shape="0" alt="" ID="{2FC3B665-120A-43B2-95B4-5C86F55491DB}" coords="(218,0,339,18)"/>
+            </link>
+            <link targetPageID="BD6C6D2A-BE4A-43F5-8BA7-26AFF38B3189" linkType="ltPageLink" isApplyIncludePage="False" title="+Help">
+              <area shape="0" alt="" ID="{7D90F9C6-A5CB-4669-9022-2EF89DEB60DC}" coords="(338,0,386,18)"/>
+            </link>
+          </links>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Privacy+Policy%2C+Terms+of+Service%2C+Copyright+Policy%2C+Help</text>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="1832EBA2-5177-4071-8FDE-F15A307F57B2" controlTypeID="Shape" x="154" y="150" w="781" h="120" zOrder="1">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Privacy+policy</text>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

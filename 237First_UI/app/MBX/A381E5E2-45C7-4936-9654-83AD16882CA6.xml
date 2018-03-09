@@ -1,0 +1,195 @@
+﻿<mockup version="5.1" minAllowVersion="5.1" ID="A381E5E2-45C7-4936-9654-83AD16882CA6" platform="MtWeb" defaultW="1100" defaultH="6000" measureW="1100" measureH="6000" mobileScreenScale="0">
+  <controls controlCount="25">
+    <control controlID="5C7E21F0-8FBE-4BD2-923C-1CAF8D797E2C" controlTypeID="__group__" x="37" y="20" w="1034" h="740" zOrder="0">
+      <groupChildrenDescriptors>
+        <control controlID="E6655EEA-0172-4374-97C9-1E3009792BB1" controlTypeID="BrowserWindow" x="0" y="0" w="1033" h="740" zOrder="0">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Invitation%0D%0Ahttps%3A%2F%2Fwww.237first.cm</text>
+          <textSize>14</textSize>
+          <textVAlign>VaTop</textVAlign>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="740D8905-37AB-4AC0-922F-EB64D43FF56A" controlTypeID="Shape" x="2" y="75" w="1032" h="32" zOrder="1">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>++++logo%0D%0A</text>
+          <textSize>14</textSize>
+          <textAlign>HaLeft</textAlign>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="54F3D785-ED27-4ADC-A05C-639D3EC6DF35" controlTypeID="Shape" x="1" y="664" w="1033" h="50" zOrder="2">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>+++++++++++++++++++++++++++++%0D%0A%0D%0A+++++about+us++++++++++contact+us+++++++++++jobs+++++++++++++forum%0D%0A%0D%0A+++</text>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="EAEE3A94-E026-49E5-B6E4-BC9A51777C26" controlTypeID="Shape" x="0" y="106" w="1033" h="87" zOrder="3">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>INVITATION%0D%0A%0D%0A%5Boverview+of+invitation%5D</text>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="064260A2-D390-4E80-887A-38DCFD2046E1" controlTypeID="GroupBox" x="11" y="192" w="1011" h="401" zOrder="4">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Select+the+number+of+invitations</text>
+          <textSize>14</textSize>
+          <textVAlign>VaTop</textVAlign>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="5B82B658-DA44-4CA0-AEB2-C04D13F69AB3" controlTypeID="RadioButton" x="28" y="218" w="170" h="20" zOrder="5">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>1+</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+          <size>13</size>
+        </control>
+        <control controlID="F42F776B-DEAC-4704-9403-F5324F68D401" controlTypeID="RadioButton" x="28" y="249" w="170" h="20" zOrder="6">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>5+</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+          <size>13</size>
+        </control>
+        <control controlID="D0FBD71D-274A-4BB8-B00F-9BD6ACC05067" controlTypeID="RadioButton" x="28" y="281" w="170" h="20" zOrder="7">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>10+</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+          <size>13</size>
+        </control>
+        <control controlID="44F1D654-CB44-4F96-81F1-7DFDFBCD8C75" controlTypeID="RadioButton" x="28" y="313" w="170" h="20" zOrder="8">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>15+</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+          <size>13</size>
+        </control>
+        <control controlID="8466C0A9-7C6E-4FDC-8E2B-A8756E726269" controlTypeID="RadioButton" x="28" y="344" w="170" h="20" zOrder="9">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>20+</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+          <size>13</size>
+        </control>
+        <control controlID="25D4F244-4587-4FF7-BD21-4704C3F4CD4D" controlTypeID="TextInput" x="392" y="432" w="196" h="27" zOrder="10">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>telephone+number</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="113C8A40-CAA2-494D-99DB-2F78D750EA37" controlTypeID="TextInput" x="599" y="432" w="222" h="27" zOrder="11">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>email+address</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="B0208881-400C-444A-94D2-19975589ABD7" controlTypeID="Shape" x="388" y="469" w="262" h="105" zOrder="12">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Summary%0D%0A%0D%0A1+invitation+%3D+2000frs</text>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="C6509094-C3B2-4EC6-817D-B09F1BC5438A" controlTypeID="Shape" x="851" y="432" w="103" h="27" zOrder="13">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Add</text>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="841DA159-8430-4EB8-8CDA-B9F89ABAB8D4" controlTypeID="Shape" x="450" y="611" w="138" h="43" zOrder="14">
+          <interactiveData>
+            <entry title="">
+              <area shape="0" alt="" ID="{D26D4213-2031-4DDF-AB17-EDD0A8C560FE}" coords="(0,0,138,43)"/>
+              <events title="">
+                <event eventType="atClick" isChecked="True">
+                  <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                    <target targetID="87C50E66-69B2-479D-8ECE-4FD0069B5207" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                      <command name="Change Visibility" isChecked="True" descrition="">
+                        <param name="AniInterpolation" value="1" varType="3" description=""/>
+                        <param name="AniDuration" value="200" varType="3" description=""/>
+                        <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                        <param name="AniLoop" value="False" varType="11" description=""/>
+                        <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                        <param name="Delay" value="0" varType="3" description=""/>
+                        <param name="ValueFromCurrent" value="True" varType="11" description=""/>
+                        <param name="ForceFromInitValue" value="False" varType="11" description=""/>
+                        <param name="ForceSetVisible" value="False" varType="11" description=""/>
+                        <param name="Value" value="2" varType="3" description=""/>
+                        <param name="TerminateLoopByClick" value="True" varType="11" description=""/>
+                      </command>
+                    </target>
+                  </behaviour>
+                </event>
+              </events>
+            </entry>
+          </interactiveData>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Send</text>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="6E64ECE4-F2C1-47E2-8A9A-6929FB6AE8DE" controlTypeID="Avatar(Mobile)" x="28" y="418" w="48" h="48" zOrder="15"/>
+        <control controlID="C6916D2E-0E8B-4092-9D25-046FEAB04DB5" controlTypeID="CompositeComboBox" x="97" y="432" w="284" h="27" zOrder="16">
+          <groupChildrenDescriptors>
+            <control controlID="0EA0C8C0-75C4-4B52-BC78-FC8345BEDF24" controlTypeID="TextInput" x="0" y="0" w="261" h="27" zOrder="0">
+              <locked>True</locked>
+              <canMove>False</canMove>
+              <alias>input</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>Contact+1</text>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="E92E4AB6-8336-4EE9-B25A-1F80458195AF" controlTypeID="Button" x="260" y="0" w="24" h="27" zOrder="1">
+              <locked>True</locked>
+              <canMove>False</canMove>
+              <alias>button</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+              <radius>0</radius>
+            </control>
+            <control controlID="5734D224-5838-4AE2-B813-1A1133DB86DF" controlTypeID="List" x="0" y="27" w="284" h="106" zOrder="2">
+              <isShow>False</isShow>
+              <canMove>False</canMove>
+              <alias>dropDown</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>Contact+1%0D%0AContact+2%0D%0AContact+3%0D%0AContact+4</text>
+              <textSize>14</textSize>
+              <lineSpacing>0</lineSpacing>
+              <itemHeight>27</itemHeight>
+              <interlaceColor>4294967295</interlaceColor>
+            </control>
+          </groupChildrenDescriptors>
+          <baseHeight>27</baseHeight>
+          <font family="Segoe+UI"/>
+          <textSize>14</textSize>
+        </control>
+        <control controlID="0AC278EE-ECF4-4A2A-BC43-59E69BEF71FE" controlTypeID="TextArea" x="28" y="381" w="367" h="19" zOrder="17">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Enter+all+the+contacts%3A</text>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="24AA8FB2-4998-4DA4-82D3-F455F3A7AE96" controlTypeID="__group__" x="381" y="774" w="331" h="206" zOrder="1">
+      <groupChildrenDescriptors>
+        <control controlID="87C50E66-69B2-479D-8ECE-4FD0069B5207" controlTypeID="Shape" x="0" y="0" w="331" h="206" zOrder="0">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <textSize>14</textSize>
+        </control>
+        <control controlID="133AB8D9-2531-4444-B269-CADCB5890EC4" controlTypeID="Shape" x="111" y="43" w="120" h="120" zOrder="1">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>PAYPAL+PAYMENT</text>
+          <textSize>14</textSize>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

@@ -1,0 +1,558 @@
+﻿<mockup version="5.1" minAllowVersion="5.1" ID="ADDA050E-509F-4C07-BD94-36CD4AD03202" platform="MtWeb" defaultW="1100" defaultH="6000" measureW="1100" measureH="6000" mobileScreenScale="0">
+  <controls controlCount="68">
+    <control controlID="50D7FC52-7B3E-492D-8485-2F7409482502" controlTypeID="__group__" x="140" y="29" w="820" h="911" zOrder="0">
+      <groupChildrenDescriptors>
+        <control controlID="F8FBA097-BBE5-4A16-885E-C1FB6185F99A" controlTypeID="__group__" x="0" y="0" w="820" h="911" zOrder="0">
+          <groupChildrenDescriptors>
+            <control controlID="58FDE935-C453-4821-85B6-4E7CAAFDE62F" controlTypeID="BrowserWindow" x="0" y="0" w="820" h="911" zOrder="0">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>Forum%0D%0Ahttps%3A%2F%2Fwww.237first.cm</text>
+              <textSize>14</textSize>
+              <textVAlign>VaTop</textVAlign>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="17B88808-C0D6-4FA6-BA15-8D0B0811394A" controlTypeID="Shape" x="0" y="811" w="820" h="70" zOrder="1">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>+++++++++++++++++++++++++++++%0D%0A%0D%0A+++++about+us++++++++++contact+us+++++++++++jobs+++++++++++++forum%0D%0A%0D%0A+++</text>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="C8C9E2DE-7B1E-4CF7-A1BF-6055702E7227" controlTypeID="Shape" x="0" y="72" w="820" h="74" zOrder="2">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>++++%0D%0A++++logo%0D%0A</text>
+              <textSize>14</textSize>
+              <textAlign>HaLeft</textAlign>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="EB3EC43D-9053-412F-B0E9-198AA62563E8" controlTypeID="Icon" x="786" y="97" w="22" h="22" zOrder="3">
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62356</iconCode>
+              </icon>
+              <URL>F8C2434C2C958119B1E6150C97C501FA.svg</URL>
+            </control>
+            <control controlID="052B3357-3417-425A-B820-4E42C2D0D610" controlTypeID="TextInput" x="732" y="101" w="30" h="17" zOrder="4">
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>EN</text>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="28256D4D-D829-4B61-9FDA-485535724462" controlTypeID="IconButton2" x="675" y="90" w="38" h="38" zOrder="5">
+              <groupChildrenDescriptors>
+                <control controlID="1AEECAFB-6C55-46E9-AE3D-968AC9D8DDF6" controlTypeID="Shape" x="0" y="0" w="38" h="38" zOrder="0">
+                  <canMove>False</canMove>
+                  <alias>shape</alias>
+                  <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <textSize>14</textSize>
+                  <selectedIndex>-1</selectedIndex>
+                  <shapeBorderType>SbEllipse</shapeBorderType>
+                </control>
+                <control controlID="68951950-7603-49EB-A7BF-90EB64433B19" controlTypeID="Icon" x="7" y="7" w="24" h="24" zOrder="1">
+                  <canMove>False</canMove>
+                  <alias>icon</alias>
+                  <icon>
+                    <ID/>
+                    <iconFontName>jdIonicons</iconFontName>
+                    <iconCode>61697</iconCode>
+                  </icon>
+                  <URL>ED3EFB5E9FC61A65FB9676EFF083DAFA.svg</URL>
+                </control>
+                <control controlID="35E212A2-9BAD-4DCC-93CE-49586D535D10" controlTypeID="Label" x="0" y="2" w="32" h="16" zOrder="2">
+                  <canMove>False</canMove>
+                  <alias>label</alias>
+                  <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Label</text>
+                  <textSize>12</textSize>
+                  <textAlign>HaCenter</textAlign>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="295105CA-7E1B-4D18-8550-97B2874D2F1F" controlTypeID="Shape" x="25" y="0" w="13" h="13" zOrder="3">
+                  <color>4294901760</color>
+                  <borderVisible>False</borderVisible>
+                  <canMove>False</canMove>
+                  <alias>alarm</alias>
+                  <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>2</text>
+                  <textColor>4294967295</textColor>
+                  <textSize>8</textSize>
+                  <selectedIndex>-1</selectedIndex>
+                  <radius>100</radius>
+                  <radiusIsPercent>True</radiusIsPercent>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="7F65FEEF-BA7F-4484-83B3-17388FD11906" controlTypeID="Shape" x="1" y="145" w="819" h="158" zOrder="1">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>FORUM</text>
+          <textSize>14</textSize>
+        </control>
+        <control controlID="D4B52683-2F86-4206-9566-2CAAEDF5ADA4" controlTypeID="Shape" x="1" y="303" w="819" h="120" zOrder="2">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <textSize>14</textSize>
+        </control>
+        <control controlID="161EA8E0-B071-4064-924C-EEBA8133015B" controlTypeID="TextInput" x="11" y="336" w="692" h="55" zOrder="3">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Write+here...</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="E116E1AA-3273-47B1-8C05-6FB8956C65A8" controlTypeID="Button" x="722" y="336" w="87" h="55" zOrder="4">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>POST</text>
+          <lineSpacing>0</lineSpacing>
+          <radius>4</radius>
+        </control>
+        <control controlID="34997123-B55B-4966-A996-0ED8ACA36F10" controlTypeID="Shape" x="11" y="440" w="798" h="75" zOrder="5">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>POST</text>
+          <textSize>14</textSize>
+          <textAlign>HaLeft</textAlign>
+        </control>
+        <control controlID="94CD19F4-BC4B-4834-9A25-0EFF9B4F085A" controlTypeID="Shape" x="729" y="448" w="70" h="20" zOrder="6">
+          <borderVisible>False</borderVisible>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>DATE</text>
+          <textSize>14</textSize>
+          <textAlign>HaRight</textAlign>
+        </control>
+        <control controlID="1DB2AF0F-F3A0-4F6C-9845-18BDB05DF47C" controlTypeID="Button" x="633" y="475" w="70" h="28" zOrder="7">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Reply</text>
+          <lineSpacing>0</lineSpacing>
+          <radius>4</radius>
+        </control>
+        <control controlID="423D1D16-1A36-42EA-9605-27CCF62B0998" controlTypeID="IconButton2" x="713" y="470" w="38" h="38" zOrder="8">
+          <groupChildrenDescriptors>
+            <control controlID="99E7129C-3841-4C74-B6D3-DA872ABD0584" controlTypeID="Shape" x="0" y="0" w="38" h="38" zOrder="0">
+              <canMove>False</canMove>
+              <alias>shape</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <textSize>14</textSize>
+              <shapeBorderType>SbEllipse</shapeBorderType>
+            </control>
+            <control controlID="565EE504-F2CA-493F-88B4-3F2A380927CC" controlTypeID="Icon" x="7" y="7" w="24" h="24" zOrder="1">
+              <canMove>False</canMove>
+              <alias>icon</alias>
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62339</iconCode>
+              </icon>
+              <URL>8C68413269FD91978C300BB43A9F7584.svg</URL>
+            </control>
+            <control controlID="C02E0F1D-7E16-468D-9679-4FEE5AB423E9" controlTypeID="Label" x="0" y="2" w="32" h="16" zOrder="2">
+              <canMove>False</canMove>
+              <alias>label</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>Label</text>
+              <textSize>12</textSize>
+              <textAlign>HaCenter</textAlign>
+              <lineSpacing>0</lineSpacing>
+            </control>
+            <control controlID="4E337AF5-52CC-442D-BBB0-27406FC2DAC9" controlTypeID="Shape" x="25" y="0" w="13" h="13" zOrder="3">
+              <color>4294901760</color>
+              <borderVisible>False</borderVisible>
+              <canMove>False</canMove>
+              <alias>alarm</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>2</text>
+              <textColor>4294967295</textColor>
+              <textSize>8</textSize>
+              <radius>100</radius>
+              <radiusIsPercent>True</radiusIsPercent>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="7EBE2B85-4819-4D26-80D0-17A4688CE8D2" controlTypeID="IconButton2" x="761" y="470" w="38" h="38" zOrder="9">
+          <groupChildrenDescriptors>
+            <control controlID="DB1DE567-5829-4EA7-825A-1165E56BA814" controlTypeID="Shape" x="0" y="0" w="38" h="38" zOrder="0">
+              <canMove>False</canMove>
+              <alias>shape</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <textSize>14</textSize>
+              <shapeBorderType>SbEllipse</shapeBorderType>
+            </control>
+            <control controlID="ECC50D90-67E1-45DE-8715-F11B945180B7" controlTypeID="Icon" x="7" y="7" w="24" h="24" zOrder="1">
+              <canMove>False</canMove>
+              <alias>icon</alias>
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62167</iconCode>
+              </icon>
+              <URL>8BE3C7AC8FBB1747163ECAB9AB46AD44.svg</URL>
+            </control>
+            <control controlID="90493964-B1C5-437A-A172-4DEDC29FD866" controlTypeID="Label" x="0" y="2" w="32" h="16" zOrder="2">
+              <canMove>False</canMove>
+              <alias>label</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>Label</text>
+              <textSize>12</textSize>
+              <textAlign>HaCenter</textAlign>
+              <lineSpacing>0</lineSpacing>
+            </control>
+            <control controlID="DC79BB03-F9FE-4974-95AE-B7969A5397D1" controlTypeID="Shape" x="25" y="0" w="13" h="13" zOrder="3">
+              <color>4294901760</color>
+              <borderVisible>False</borderVisible>
+              <canMove>False</canMove>
+              <alias>alarm</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>2</text>
+              <textColor>4294967295</textColor>
+              <textSize>8</textSize>
+              <radius>100</radius>
+              <radiusIsPercent>True</radiusIsPercent>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="5303B555-F81B-4292-8999-8856F345EF9A" controlTypeID="Shape" x="11" y="532" w="798" h="75" zOrder="10">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>POST</text>
+          <textSize>14</textSize>
+          <textAlign>HaLeft</textAlign>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="6809CD8A-F426-45BA-BFFD-5F8E014BF0E4" controlTypeID="Shape" x="729" y="540" w="70" h="20" zOrder="11">
+          <borderVisible>False</borderVisible>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>DATE</text>
+          <textSize>14</textSize>
+          <textAlign>HaRight</textAlign>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="494F77D9-48C8-4A77-A8FB-5FC3DF50E307" controlTypeID="Button" x="633" y="567" w="70" h="28" zOrder="12">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Reply</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+          <radius>4</radius>
+        </control>
+        <control controlID="881EB686-701C-4F85-8983-5DD611011F7C" controlTypeID="IconButton2" x="713" y="562" w="38" h="38" zOrder="13">
+          <groupChildrenDescriptors>
+            <control controlID="74299B34-56CA-4E41-8838-C80BC5B63B48" controlTypeID="Shape" x="0" y="0" w="38" h="38" zOrder="0">
+              <canMove>False</canMove>
+              <alias>shape</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+              <shapeBorderType>SbEllipse</shapeBorderType>
+            </control>
+            <control controlID="4001B53E-D2D9-4FD0-9AA4-B8F2378274FB" controlTypeID="Icon" x="7" y="7" w="24" h="24" zOrder="1">
+              <canMove>False</canMove>
+              <alias>icon</alias>
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62339</iconCode>
+              </icon>
+              <URL>8C68413269FD91978C300BB43A9F7584.svg</URL>
+            </control>
+            <control controlID="19916593-B851-441A-B3F7-2852EE45331F" controlTypeID="Label" x="0" y="2" w="32" h="16" zOrder="2">
+              <canMove>False</canMove>
+              <alias>label</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>Label</text>
+              <textSize>12</textSize>
+              <textAlign>HaCenter</textAlign>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="CFD380E1-ADCE-426D-92B9-830871F1466C" controlTypeID="Shape" x="25" y="0" w="13" h="13" zOrder="3">
+              <color>4294901760</color>
+              <borderVisible>False</borderVisible>
+              <canMove>False</canMove>
+              <alias>alarm</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>2</text>
+              <textColor>4294967295</textColor>
+              <textSize>8</textSize>
+              <selectedIndex>-1</selectedIndex>
+              <radius>100</radius>
+              <radiusIsPercent>True</radiusIsPercent>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="30B7FAAA-26C8-44F1-850D-3AE65DD0D599" controlTypeID="IconButton2" x="761" y="562" w="38" h="38" zOrder="14">
+          <groupChildrenDescriptors>
+            <control controlID="2D797648-BB62-40F8-A2C0-D54927D5E0C3" controlTypeID="Shape" x="0" y="0" w="38" h="38" zOrder="0">
+              <canMove>False</canMove>
+              <alias>shape</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+              <shapeBorderType>SbEllipse</shapeBorderType>
+            </control>
+            <control controlID="B528619A-1390-479F-8EC9-5A8CEE9DFE49" controlTypeID="Icon" x="7" y="7" w="24" h="24" zOrder="1">
+              <canMove>False</canMove>
+              <alias>icon</alias>
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62167</iconCode>
+              </icon>
+              <URL>8BE3C7AC8FBB1747163ECAB9AB46AD44.svg</URL>
+            </control>
+            <control controlID="433A82C5-5573-4AC1-BDB5-6121C0E8B3B9" controlTypeID="Label" x="0" y="2" w="32" h="16" zOrder="2">
+              <canMove>False</canMove>
+              <alias>label</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>Label</text>
+              <textSize>12</textSize>
+              <textAlign>HaCenter</textAlign>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="0CCCE063-9DDE-4A19-9460-452D49C15270" controlTypeID="Shape" x="25" y="0" w="13" h="13" zOrder="3">
+              <color>4294901760</color>
+              <borderVisible>False</borderVisible>
+              <canMove>False</canMove>
+              <alias>alarm</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>2</text>
+              <textColor>4294967295</textColor>
+              <textSize>8</textSize>
+              <selectedIndex>-1</selectedIndex>
+              <radius>100</radius>
+              <radiusIsPercent>True</radiusIsPercent>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="37A87A22-227B-4C1D-9D8E-D58421BD728D" controlTypeID="Shape" x="11" y="625" w="798" h="75" zOrder="15">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>POST</text>
+          <textSize>14</textSize>
+          <textAlign>HaLeft</textAlign>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="8C51E598-C83A-4F24-A649-A472BBB5C50B" controlTypeID="Shape" x="729" y="633" w="70" h="20" zOrder="16">
+          <borderVisible>False</borderVisible>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>DATE</text>
+          <textSize>14</textSize>
+          <textAlign>HaRight</textAlign>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="94980302-C7C1-4BC2-BDCC-9C0CC60DEFD6" controlTypeID="Button" x="633" y="660" w="70" h="28" zOrder="17">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Reply</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+          <radius>4</radius>
+        </control>
+        <control controlID="2F1ACF82-55AC-4B88-928C-FF55BFBDCD06" controlTypeID="IconButton2" x="713" y="655" w="38" h="38" zOrder="18">
+          <groupChildrenDescriptors>
+            <control controlID="7F0269C7-C7A2-418C-A67B-074CD7F2CFFB" controlTypeID="Shape" x="0" y="0" w="38" h="38" zOrder="0">
+              <canMove>False</canMove>
+              <alias>shape</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+              <shapeBorderType>SbEllipse</shapeBorderType>
+            </control>
+            <control controlID="840728E4-4836-4899-B38D-ED9E8CBE4BDF" controlTypeID="Icon" x="7" y="7" w="24" h="24" zOrder="1">
+              <canMove>False</canMove>
+              <alias>icon</alias>
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62339</iconCode>
+              </icon>
+              <URL>8C68413269FD91978C300BB43A9F7584.svg</URL>
+            </control>
+            <control controlID="939534FD-1B31-4BD0-81E4-11FE2AB4F3AA" controlTypeID="Label" x="0" y="2" w="32" h="16" zOrder="2">
+              <canMove>False</canMove>
+              <alias>label</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>Label</text>
+              <textSize>12</textSize>
+              <textAlign>HaCenter</textAlign>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="E050DD7F-B11E-4A8D-9588-2A5605EB21B9" controlTypeID="Shape" x="25" y="0" w="13" h="13" zOrder="3">
+              <color>4294901760</color>
+              <borderVisible>False</borderVisible>
+              <canMove>False</canMove>
+              <alias>alarm</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>2</text>
+              <textColor>4294967295</textColor>
+              <textSize>8</textSize>
+              <selectedIndex>-1</selectedIndex>
+              <radius>100</radius>
+              <radiusIsPercent>True</radiusIsPercent>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="0067889B-F7FC-4E16-ACBC-A96B0878F6D5" controlTypeID="IconButton2" x="761" y="655" w="38" h="38" zOrder="19">
+          <groupChildrenDescriptors>
+            <control controlID="4BE614EF-12D9-4BE5-8DE6-D615517607F5" controlTypeID="Shape" x="0" y="0" w="38" h="38" zOrder="0">
+              <canMove>False</canMove>
+              <alias>shape</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+              <shapeBorderType>SbEllipse</shapeBorderType>
+            </control>
+            <control controlID="04952C2E-F7FE-4DA9-82A9-D03C02F410B9" controlTypeID="Icon" x="7" y="7" w="24" h="24" zOrder="1">
+              <canMove>False</canMove>
+              <alias>icon</alias>
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62167</iconCode>
+              </icon>
+              <URL>8BE3C7AC8FBB1747163ECAB9AB46AD44.svg</URL>
+            </control>
+            <control controlID="09568EC7-B4ED-4100-B598-7F9E93B8EC96" controlTypeID="Label" x="0" y="2" w="32" h="16" zOrder="2">
+              <canMove>False</canMove>
+              <alias>label</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>Label</text>
+              <textSize>12</textSize>
+              <textAlign>HaCenter</textAlign>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="05851FC5-332F-4B2B-B044-B2B436A4D465" controlTypeID="Shape" x="25" y="0" w="13" h="13" zOrder="3">
+              <color>4294901760</color>
+              <borderVisible>False</borderVisible>
+              <canMove>False</canMove>
+              <alias>alarm</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>2</text>
+              <textColor>4294967295</textColor>
+              <textSize>8</textSize>
+              <selectedIndex>-1</selectedIndex>
+              <radius>100</radius>
+              <radiusIsPercent>True</radiusIsPercent>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1F92A6E1-5580-4909-9CD2-D5BED1D3B0DA" controlTypeID="Shape" x="11" y="710" w="798" h="75" zOrder="20">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>POST</text>
+          <textSize>14</textSize>
+          <textAlign>HaLeft</textAlign>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="4AE79829-84B2-4ABB-9EA0-0073E4F55F87" controlTypeID="Shape" x="729" y="718" w="70" h="20" zOrder="21">
+          <borderVisible>False</borderVisible>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>DATE</text>
+          <textSize>14</textSize>
+          <textAlign>HaRight</textAlign>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="CC54DBB8-33D5-445B-AB0A-5FFF7EFB2505" controlTypeID="Button" x="633" y="745" w="70" h="28" zOrder="22">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Reply</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+          <radius>4</radius>
+        </control>
+        <control controlID="CF33D844-A4D0-465F-A953-E5843A3C95E1" controlTypeID="IconButton2" x="713" y="740" w="38" h="38" zOrder="23">
+          <groupChildrenDescriptors>
+            <control controlID="27DF147A-D702-48F9-9F4B-DC6D4045B954" controlTypeID="Shape" x="0" y="0" w="38" h="38" zOrder="0">
+              <canMove>False</canMove>
+              <alias>shape</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+              <shapeBorderType>SbEllipse</shapeBorderType>
+            </control>
+            <control controlID="181289D3-3E62-4B5A-92ED-A0A85B6E80BA" controlTypeID="Icon" x="7" y="7" w="24" h="24" zOrder="1">
+              <canMove>False</canMove>
+              <alias>icon</alias>
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62339</iconCode>
+              </icon>
+              <URL>8C68413269FD91978C300BB43A9F7584.svg</URL>
+            </control>
+            <control controlID="8DAB659B-B557-4469-B2A8-881C5F613E9A" controlTypeID="Label" x="0" y="2" w="32" h="16" zOrder="2">
+              <canMove>False</canMove>
+              <alias>label</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>Label</text>
+              <textSize>12</textSize>
+              <textAlign>HaCenter</textAlign>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="886C46D7-B642-454B-86B3-CE3364CE25B9" controlTypeID="Shape" x="25" y="0" w="13" h="13" zOrder="3">
+              <color>4294901760</color>
+              <borderVisible>False</borderVisible>
+              <canMove>False</canMove>
+              <alias>alarm</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>2</text>
+              <textColor>4294967295</textColor>
+              <textSize>8</textSize>
+              <selectedIndex>-1</selectedIndex>
+              <radius>100</radius>
+              <radiusIsPercent>True</radiusIsPercent>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="4C8C3363-B2D7-45E4-8974-B5FCC2BA4E3A" controlTypeID="IconButton2" x="761" y="740" w="38" h="38" zOrder="24">
+          <groupChildrenDescriptors>
+            <control controlID="F2B42909-C2AF-477E-A35D-FE28AFFCF3C4" controlTypeID="Shape" x="0" y="0" w="38" h="38" zOrder="0">
+              <canMove>False</canMove>
+              <alias>shape</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <textSize>14</textSize>
+              <selectedIndex>-1</selectedIndex>
+              <shapeBorderType>SbEllipse</shapeBorderType>
+            </control>
+            <control controlID="3C9B22E9-9EF3-4CFD-981B-DD578C51A7B9" controlTypeID="Icon" x="7" y="7" w="24" h="24" zOrder="1">
+              <canMove>False</canMove>
+              <alias>icon</alias>
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62167</iconCode>
+              </icon>
+              <URL>8BE3C7AC8FBB1747163ECAB9AB46AD44.svg</URL>
+            </control>
+            <control controlID="51083DAA-190E-414E-9FE5-32C32F38E2D3" controlTypeID="Label" x="0" y="2" w="32" h="16" zOrder="2">
+              <canMove>False</canMove>
+              <alias>label</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>Label</text>
+              <textSize>12</textSize>
+              <textAlign>HaCenter</textAlign>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="63B1B8CA-5A68-4830-A9D5-5D4023FC835F" controlTypeID="Shape" x="25" y="0" w="13" h="13" zOrder="3">
+              <color>4294901760</color>
+              <borderVisible>False</borderVisible>
+              <canMove>False</canMove>
+              <alias>alarm</alias>
+              <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>2</text>
+              <textColor>4294967295</textColor>
+              <textSize>8</textSize>
+              <selectedIndex>-1</selectedIndex>
+              <radius>100</radius>
+              <radiusIsPercent>True</radiusIsPercent>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

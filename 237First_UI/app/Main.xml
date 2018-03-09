@@ -1,0 +1,246 @@
+﻿<project version="2.9" name="237First_UI" ID="EB633A9E-B206-48F5-94B4-D1891FCFCB1E">
+  <params>
+    <pageParam version="5.1" minAllowVersion="5.1"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtWeb" pageSize="(1100,6000)" backgroundColor="4294967295" fontSize="0" fontFamily="" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="HomePage" ID="91063686-E491-4C90-9812-31C9BD5AAF0B" expanded="True" code="UliQpWL4A4" thumbCode="UliQpWL4A4" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="F8C2434C2C958119B1E6150C97C501FA.svg"/>
+        <image key="ED3EFB5E9FC61A65FB9676EFF083DAFA.svg"/>
+      </images>
+    </page>
+    <page name="browse Music" ID="9220A8DE-9A33-4FAF-AB1A-8BC2A63CCA4A" expanded="True" code="RcMwNLIwTx" thumbCode="RcMwNLIwTx" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="2B26C789AF3EFEA925A6893B9D4A201A.svg"/>
+        <image key="99D18E524D2BEF9446942FB6A373FE26.svg"/>
+        <image key="F8C2434C2C958119B1E6150C97C501FA.svg"/>
+        <image key="ED3EFB5E9FC61A65FB9676EFF083DAFA.svg"/>
+      </images>
+    </page>
+    <page name="Timeline" ID="237B5A95-3827-4A99-B203-42AE70D9D605" expanded="True" code="XLgjdzSIAz" thumbCode="XLgjdzSIAz" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="8AA29A99D569513D2A1B60AFC8D8DD4A.svg"/>
+        <image key="D08755C22A9B40B6BF65036DEC8B44B4.svg"/>
+      </images>
+    </page>
+    <page name="Blog" ID="245086FF-F384-4D25-B704-4E961EF18FF9" expanded="True" code="k24OUMWF4w" thumbCode="k24OUMWF4w" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="My Page - My Playlist" ID="4C4AFD60-8A3E-48B3-94A4-8B52D821C0D6" expanded="True" code="PaAOmrMZWH" thumbCode="NTnIbEuutC" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D08755C22A9B40B6BF65036DEC8B44B4.svg"/>
+        <image key="92A37C37F1C55861F795B008D0D7225E.svg"/>
+      </images>
+    </page>
+    <page name="My Page - My Library" ID="62545555-8E24-40ED-9590-990C5EACEBED" expanded="True" code="tJLpsMQ6Qx" thumbCode="tJLpsMQ6Qx" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="92A37C37F1C55861F795B008D0D7225E.svg"/>
+      </images>
+    </page>
+    <page name="My Page - Network" ID="9F6B1DCF-CE02-44EC-AEBD-C7FD3FEAADDF" expanded="True" code="5S1oxxlJtj" thumbCode="5S1oxxlJtj" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="92A37C37F1C55861F795B008D0D7225E.svg"/>
+      </images>
+    </page>
+    <page name="My Page - Statistics" ID="5DB69857-629B-4282-AD86-0EBAC8F0983B" expanded="True" code="daAEWgWAtV" thumbCode="daAEWgWAtV" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="92A37C37F1C55861F795B008D0D7225E.svg"/>
+      </images>
+    </page>
+    <page name="My Page - Notifications" ID="1B793C56-EBD9-46E2-B07C-8696BE6B98BB" expanded="True" code="thZavqhbFY" thumbCode="thZavqhbFY" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="92A37C37F1C55861F795B008D0D7225E.svg"/>
+      </images>
+    </page>
+    <page name="Dashboard" ID="460CABED-8B68-492A-9A2F-8F4D6F82AB8E" expanded="True" code="8FPuepaBV2" thumbCode="8FPuepaBV2" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="2B26C789AF3EFEA925A6893B9D4A201A.svg"/>
+        <image key="99D18E524D2BEF9446942FB6A373FE26.svg"/>
+      </images>
+    </page>
+    <page name="Invitation" ID="A381E5E2-45C7-4936-9654-83AD16882CA6" expanded="True" code="ZGs4Ep6pna" thumbCode="ZGs4Ep6pna" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Marketing" ID="D3CBA8D7-60CA-4665-AC84-A189221132A0" expanded="True" code="j7MhbiOLDI" thumbCode="j7MhbiOLDI" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="C9A19AEA8333861081ABFD164D361FEF.svg"/>
+        <image key="2A91D95040708868862283C0B7AE86CC.svg"/>
+        <image key="B3A6945EE3EC14A6D5961C700B98A2BC.svg"/>
+        <image key="C2DA32AD73BD4A46DCAE15462637BA6C.svg"/>
+      </images>
+    </page>
+    <page name="Investment" ID="9584409A-19E5-41A0-A164-CE0A65A8983B" expanded="True" code="CBOlMuYL6y" thumbCode="CBOlMuYL6y" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="2B26C789AF3EFEA925A6893B9D4A201A.svg"/>
+        <image key="8AA29A99D569513D2A1B60AFC8D8DD4A.svg"/>
+      </images>
+    </page>
+    <page name="One-to-One Investment" ID="1F5344B9-7E6B-4C4C-A549-51B039A3CD7D" expanded="True" code="jsfnawcKkZ" thumbCode="jsfnawcKkZ" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="One-to-Many investment" ID="2F869496-7AD4-4432-9D92-AFE1289809E1" expanded="True" code="YfDuIQTRTu" thumbCode="YfDuIQTRTu" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Many-to-One investment" ID="6D86FEBE-A5A4-492C-B8AC-3BB12F586B19" expanded="True" code="lPqiSRRkqQ" thumbCode="lPqiSRRkqQ" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Many-to- Many investment" ID="54B3FCF1-DF94-4DA8-9E2F-A81790968D8E" expanded="True" code="HMa26WVFFq" thumbCode="HMa26WVFFq" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Promotion" ID="7E715758-47C4-44B6-AC76-84A43347BD8F" expanded="True" code="CEzcYqU4Q7" thumbCode="CEzcYqU4Q7" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="2B26C789AF3EFEA925A6893B9D4A201A.svg"/>
+        <image key="99D18E524D2BEF9446942FB6A373FE26.svg"/>
+        <image key="83DD69C47E6D1466D54371E396D6F349.svg"/>
+        <image key="D08755C22A9B40B6BF65036DEC8B44B4.svg"/>
+      </images>
+    </page>
+    <page name="New Promotion" ID="78420F38-F72B-4EFA-8D38-1899027022D6" expanded="True" code="gjrRy9oMdT" thumbCode="gjrRy9oMdT" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Settings" ID="FA499CA4-330D-4DBE-84D7-5FB041A3AFA5" expanded="True" code="uhNWJ62XHZ" thumbCode="uhNWJ62XHZ" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Settings - About us - Privacy Policy" ID="F3014A0C-4BBB-45EE-8295-347CD65D5715" expanded="True" code="O3nAOJRrkE" thumbCode="O3nAOJRrkE" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Settings - Terms of Service" ID="BEB5647D-10D6-40E6-A5A4-2D12B70B94A0" expanded="True" code="sfuw32Qsmn" thumbCode="sfuw32Qsmn" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Settings - Copyright Policy" ID="3AD73DF3-3F11-4565-BB58-803AA8DA690D" expanded="True" code="G4LULUHuOR" thumbCode="G4LULUHuOR" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Settings - Help" ID="BD6C6D2A-BE4A-43F5-8BA7-26AFF38B3189" expanded="True" code="zbaRRBaGGF" thumbCode="zbaRRBaGGF" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Navigating the site" ID="C8F6E9B8-A67F-4C6B-95D1-93C18AF40E2E" expanded="True" code="2OAVhWBbQF" thumbCode="2OAVhWBbQF" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="2B26C789AF3EFEA925A6893B9D4A201A.svg"/>
+        <image key="99D18E524D2BEF9446942FB6A373FE26.svg"/>
+        <image key="F8C2434C2C958119B1E6150C97C501FA.svg"/>
+        <image key="ED3EFB5E9FC61A65FB9676EFF083DAFA.svg"/>
+      </images>
+    </page>
+    <page name="Navigating the App" ID="9EEE38B6-E477-4197-8533-16AFEFAF93BE" expanded="True" code="uIXHDysAgT" thumbCode="uIXHDysAgT" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="2B26C789AF3EFEA925A6893B9D4A201A.svg"/>
+        <image key="99D18E524D2BEF9446942FB6A373FE26.svg"/>
+        <image key="F8C2434C2C958119B1E6150C97C501FA.svg"/>
+        <image key="ED3EFB5E9FC61A65FB9676EFF083DAFA.svg"/>
+      </images>
+    </page>
+    <page name="Our Features" ID="171A94E3-CFC6-4D39-A8DD-7D0EB258A65A" expanded="True" code="avm7u8n21o" thumbCode="avm7u8n21o" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="F8C2434C2C958119B1E6150C97C501FA.svg"/>
+        <image key="ED3EFB5E9FC61A65FB9676EFF083DAFA.svg"/>
+      </images>
+    </page>
+    <page name="FAQ" ID="1E5371BE-9B52-43A5-86C6-90B0632BDCF5" expanded="True" code="2fKDMcQuQP" thumbCode="2fKDMcQuQP" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="C2DA32AD73BD4A46DCAE15462637BA6C.svg"/>
+      </images>
+    </page>
+    <page name="Guidelines" ID="842134DB-8C46-4A7E-A2DC-B159950832E1" expanded="True" code="zbD95r1kaH" thumbCode="zbD95r1kaH" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="F8C2434C2C958119B1E6150C97C501FA.svg"/>
+        <image key="ED3EFB5E9FC61A65FB9676EFF083DAFA.svg"/>
+      </images>
+    </page>
+    <page name="Payment" ID="13EB0B3D-5AB7-418D-B9CD-9BD14BD18F35" expanded="True" code="LcGJQjp6Hf" thumbCode="LcGJQjp6Hf" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="F8C2434C2C958119B1E6150C97C501FA.svg"/>
+        <image key="ED3EFB5E9FC61A65FB9676EFF083DAFA.svg"/>
+      </images>
+    </page>
+    <page name="Forum" ID="ADDA050E-509F-4C07-BD94-36CD4AD03202" expanded="True" code="9sZyKfL5A4" thumbCode="9sZyKfL5A4" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="8BE3C7AC8FBB1747163ECAB9AB46AD44.svg"/>
+        <image key="8C68413269FD91978C300BB43A9F7584.svg"/>
+        <image key="ED3EFB5E9FC61A65FB9676EFF083DAFA.svg"/>
+        <image key="F8C2434C2C958119B1E6150C97C501FA.svg"/>
+      </images>
+    </page>
+    <page name="Account Help" ID="F13A7040-007A-4EA4-9E0E-0D4E7FCD2E4E" expanded="True" code="QVOQmgTgIc" thumbCode="QVOQmgTgIc" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="F8C2434C2C958119B1E6150C97C501FA.svg"/>
+        <image key="ED3EFB5E9FC61A65FB9676EFF083DAFA.svg"/>
+      </images>
+    </page>
+    <page name="Upgrading" ID="3FBAD0CD-64F3-45EC-AC2C-8393AC71E0E1" expanded="True" code="az4FQk3DC6" thumbCode="az4FQk3DC6" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="F8C2434C2C958119B1E6150C97C501FA.svg"/>
+        <image key="ED3EFB5E9FC61A65FB9676EFF083DAFA.svg"/>
+      </images>
+    </page>
+    <page name="My Account" ID="D8D2A0DF-E082-4DF9-8E31-CDC671B65327" expanded="True" code="Fj5AyJqCb3" thumbCode="Fj5AyJqCb3" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="B3A6945EE3EC14A6D5961C700B98A2BC.svg"/>
+        <image key="ED3EFB5E9FC61A65FB9676EFF083DAFA.svg"/>
+        <image key="F8C2434C2C958119B1E6150C97C501FA.svg"/>
+        <image key="C2DA32AD73BD4A46DCAE15462637BA6C.svg"/>
+      </images>
+    </page>
+    <page name="Storage" ID="CC675418-A0DF-41C0-AFB0-2566B8FEEA40" expanded="True" code="eGHZifvWno" thumbCode="eGHZifvWno" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="F8C2434C2C958119B1E6150C97C501FA.svg"/>
+        <image key="ED3EFB5E9FC61A65FB9676EFF083DAFA.svg"/>
+      </images>
+    </page>
+    <page name="Login" ID="B2828CC3-9432-4094-9C82-E13ADC4D7938" expanded="True" code="oCw47KBYOO" thumbCode="oCw47KBYOO" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Sign in" ID="36FA1EF0-0E04-45B4-BE8A-4866F53E8FAC" expanded="True" code="qUYWYQVjgG" thumbCode="qUYWYQVjgG" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Sign Up" ID="EFB6BA77-C86B-41E8-934D-CB483FB36F38" expanded="True" code="cuSEh1OsgZ" thumbCode="cuSEh1OsgZ" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Contact us" ID="8DA2768C-3B71-4CA8-B13D-12AFF0C8491E" expanded="True" code="K4QAwZivf7" thumbCode="K4QAwZivf7" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="jobs" ID="39506FC9-8205-40D3-8522-B9F0AE8B155F" expanded="True" code="HBqtOczpYA" thumbCode="HBqtOczpYA" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="C9A19AEA8333861081ABFD164D361FEF.svg"/>
+        <image key="76118A001D7B98003E1AE08ACA6CEB2B.svg"/>
+        <image key="B006535552ADCF3C660B10FA6D267D70.svg"/>
+      </images>
+    </page>
+    <page name="Apply for a job" ID="A4FD047B-4DF5-4556-BAC2-898804C4A322" expanded="True" code="8OmvPqiBXM" thumbCode="8OmvPqiBXM" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="F8C2434C2C958119B1E6150C97C501FA.svg"/>
+        <image key="ED3EFB5E9FC61A65FB9676EFF083DAFA.svg"/>
+      </images>
+    </page>
+    <page name="Browse List" ID="C37E0F43-45A4-458A-94AC-15D590D263EB" expanded="True" code="yXf7BS1sFC" thumbCode="yXf7BS1sFC" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="92A37C37F1C55861F795B008D0D7225E.svg"/>
+      </images>
+    </page>
+    <page name="Media player" ID="15400C63-38A8-415F-ACDC-D4A1412B8756" expanded="True" code="qD7mGJbmMx" thumbCode="qD7mGJbmMx" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="F8B2917AC964F0F53ED66D6566F195D8.svg"/>
+        <image key="9C5D54E8152D0F872A2374FC975D8975.svg"/>
+        <image key="64FBF5A69A447227426B9D4A4C4B6E2E.svg"/>
+        <image key="1476ED19B8258CD8DEE5D627D0B8403D.svg"/>
+        <image key="9DDACFA1CF56DBAEDCDB44BD9EE77A8A.svg"/>
+        <image key="7394542266B644828266BAF334B2C2C9.svg"/>
+        <image key="A637C1FFC04C2A9B707ABDAC1249B64F.svg"/>
+      </images>
+    </page>
+  </pages>
+  <trash>
+    <page name="My Library" ID="52A924AD-1793-4914-B3A3-DDA3AB714C40" expanded="True" code="YRLllomDrV" thumbCode="erUkCRjxll" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Page1" ID="7A18AD83-ED3F-415C-89E6-DB164D84692D" expanded="False" code="bq96PObnx1" thumbCode="no47EgBeLC" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Page1" ID="7F5ACF15-0B06-4966-8249-72AE010E7F7D" expanded="False" code="uZNARYyUNe" thumbCode="KdeUx2mRYJ" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Page" ID="7354C108-B6E9-4BD4-9A16-DF98039E70C3" expanded="True" code="MMDCK5etcc" thumbCode="jIVTZYACb6" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Marketing" ID="32B936F1-375E-4A89-BE4D-47A6CA1F3705" expanded="False" code="vbkB71mTNR" thumbCode="WyBbtRaweG" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Target Specific Users" ID="CBDC808D-6105-405F-90B3-2BFD5D107098" expanded="True" code="yt9JcWr9JR" thumbCode="JzQXyPK2g7" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="Page" ID="E7D2F14E-06ED-4544-9DA4-D40CD2993C83" expanded="False" code="QJJaSNHqrq" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="My Library" ID="5A308A16-5F65-44E3-97AC-4D2A87BC2BE0" expanded="True" code="ezNIUY4Zyd" thumbCode="ueMiOw6Yfc" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="92A37C37F1C55861F795B008D0D7225E.svg"/>
+      </images>
+    </page>
+    <page name="Page" ID="F2892B74-CF3D-46D2-9312-C87A719695B7" expanded="False" code="tfWamvBNoI" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="forum" ID="3AA220CA-5D45-41B0-A2C0-E2D2DD71467E" expanded="False" code="RZU2NN3xgH" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="PayPal Payment" ID="F3166836-4B57-4B98-AB3B-2EC87194B210" expanded="True" code="QzLfrmFd1w" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+  </trash>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="A637C1FFC04C2A9B707ABDAC1249B64F.svg"/>
+    <image key="9C5D54E8152D0F872A2374FC975D8975.svg"/>
+    <image key="C9A19AEA8333861081ABFD164D361FEF.svg"/>
+    <image key="92A37C37F1C55861F795B008D0D7225E.svg"/>
+    <image key="2A91D95040708868862283C0B7AE86CC.svg"/>
+    <image key="2B26C789AF3EFEA925A6893B9D4A201A.svg"/>
+    <image key="8AA29A99D569513D2A1B60AFC8D8DD4A.svg"/>
+    <image key="99D18E524D2BEF9446942FB6A373FE26.svg"/>
+    <image key="83DD69C47E6D1466D54371E396D6F349.svg"/>
+    <image key="8BE3C7AC8FBB1747163ECAB9AB46AD44.svg"/>
+    <image key="B006535552ADCF3C660B10FA6D267D70.svg"/>
+    <image key="F8C2434C2C958119B1E6150C97C501FA.svg"/>
+    <image key="ED3EFB5E9FC61A65FB9676EFF083DAFA.svg"/>
+    <image key="8C68413269FD91978C300BB43A9F7584.svg"/>
+    <image key="1476ED19B8258CD8DEE5D627D0B8403D.svg"/>
+    <image key="B3A6945EE3EC14A6D5961C700B98A2BC.svg"/>
+    <image key="C2DA32AD73BD4A46DCAE15462637BA6C.svg"/>
+    <image key="76118A001D7B98003E1AE08ACA6CEB2B.svg"/>
+    <image key="64FBF5A69A447227426B9D4A4C4B6E2E.svg"/>
+    <image key="9DDACFA1CF56DBAEDCDB44BD9EE77A8A.svg"/>
+    <image key="7394542266B644828266BAF334B2C2C9.svg"/>
+    <image key="D08755C22A9B40B6BF65036DEC8B44B4.svg"/>
+    <image key="F8B2917AC964F0F53ED66D6566F195D8.svg"/>
+  </images>
+</project>

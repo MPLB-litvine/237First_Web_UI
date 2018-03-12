@@ -1,0 +1,23 @@
+Task 1: Designing the web Front-End
+
+There are 43 pages (components) to be designed and we will divide them as such:
+
+- Jonathan designs 14 pages 
+- Arrah designs 14 pages 
+- Philip designs 15 pages
+
+We will design in a chronological manner such that each page/activity links with the other.
+
+Beginning with the Homepage which contains most of the links to the rest of the website.
+
+The Homepage contains 4 tabs.
+-Arrah should design the Timeline
+-Jonathan should design the Browse music tab
+-Philip should design the homepage tab
+
+Each person will implement the css individually but we will correct and modify the code based on what we feel is the best look. 
+Hint: You can use the design of another website as inspiration.
+
+Note that this approach can change to meet our needs.
+
+We have 2 weeks to complete this task. 

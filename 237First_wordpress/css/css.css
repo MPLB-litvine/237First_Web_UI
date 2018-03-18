@@ -1,0 +1,48 @@
+
+body{
+	margin: 0px;
+}
+#header,#footer{
+	background-color: #007e99;
+	flex:0 1 100vw;
+	border: solid;
+}
+.features {
+	display: flex;
+	flex-flow: row wrap;
+	text-align: center;
+	min-height: calc(100vh - 16px);
+}
+
+.features h5{
+	text-align: center;
+}
+section{
+	flex: 1;
+/*	border: solid;
+*/	border-radius: 8px;
+	text-align: center;
+	margin: 2px;
+	min-height: 100px;
+}
+#more{
+	min-height: 50px;
+	max-height: 70px;
+}
+section h5 {
+	flex: 1;
+}
+footer p{
+	text-align: center;
+}
+footer p span{
+	padding: 40px
+}
+	
+	
+
+
+
+
+
+

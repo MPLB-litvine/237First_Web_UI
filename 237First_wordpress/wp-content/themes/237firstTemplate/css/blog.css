@@ -1,0 +1,78 @@
+/*blog css*/
+#myBlog{
+	display: flex;
+	flex-flow: column wrap;
+}
+#myBlog >*{
+	flex: 1;
+}
+#searchSection form{
+	display: flex;
+	flex-flow: row wrap;
+}
+#searchSection{
+	margin-left: 80%;
+}
+#searchEngine, #searchBtn{
+	border: transparent;
+}
+#searchEngine{
+	height: 3em;
+	text-align: center;
+	width:80%;
+	border-bottom-left-radius: 9px;
+	border-top-left-radius: 9px;
+}
+#searchBtn{
+	background-color: darkgrey;
+	height: 3.3em;
+	border-bottom-right-radius: 9px;
+	border-top-right-radius: 9px;
+	width:18%;
+}
+#searchBtn:hover{
+	background-color:rgba(32, 34, 39, 0.1);
+}
+
+/*blog post*/
+.blogPost{
+	flex: 1;
+	background-color: white;
+}
+#postTitle{
+	margin-top: 0px;
+		font-size: 2em;
+}
+.topic{
+	display: flex;
+	flex-flow: row wrap;
+}
+#postTopic{
+float: left;
+	margin-left: 15px;
+	font-size: 2em;
+}
+#post{
+		font-size: 2em;
+		margin-left: 5px;
+}
+.userDetails{
+	display: flex;
+	flex-flow: row wrap;
+	margin-top: 10px;
+	background-color: black;
+}
+.userDetails ul{
+		margin-top: 35px;
+		font-size: 1.5em;
+	color: white;
+}
+.blogPost img{
+	border-radius: 15px;
+	float: left;
+	width: 10em;
+	height: 10em;
+}
+.blogArticle{
+	border: 1px solid;
+}

@@ -1,0 +1,301 @@
+/*/*
+/*
+Theme name: 237First template
+author: team 237
+*/
+body{
+	margin: 0px;
+	background-color: rgba(131, 191, 63, 0.2);
+}
+/*header*/
+header h1 a{
+	text-decoration: none;
+	margin-left: 4.5%;
+}
+.site_header{
+	margin: 0px;
+	border-bottom: 0.2px solid whitesmoke;	
+	background-color:rgba(129, 153, 102, 0.1)	;
+	border-top: 1px solid whitesmoke
+}
+
+/*popup Menu*/
+#menuPop{
+	display: none;
+	position:absolute;
+	border: 1px solid;
+  margin-left: 90%;
+	background-color: white;
+	min-width: 180px;
+}
+#menuPop a{
+	display: block;
+	text-decoration: none;
+	font-size: 1.3em;
+	padding: 10px;
+	color: black;
+}
+#menuPop a:hover{
+	background-color: lightblue;
+}
+/*tabs*/
+.navig_tabs {
+    font-size: 1.5em;
+		margin-left: 2em;
+		padding:0px;
+}
+.navig_tabs li {
+    display: inline;
+		padding: 10px;
+		border-radius: 3px;
+	}
+.navig_tabs li {
+		padding: 10px;
+		border-radius: 3px;
+	}
+.navig_tabs a {
+	margin-right: 1em;
+	text-decoration:none;
+	color: black;
+}
+.navig_tabs ul li:hover{
+	background-color: rgb(63, 127, 191);	
+}
+.navig_tabs ul {
+	margin-bottom: 0px;
+}
+
+h1 a{
+	margin-left: 40px;
+}
+#body{
+	display: flex;
+	flex-flow: column wrap;
+	text-align: center;
+	min-height: 100vh;
+}
+#body > *{
+	flex: 1;
+}
+header, footer{
+/* 	box-sizing: border-box; */
+	flex:0 1 100vw;
+	margin: 0px;
+
+}
+.features h5{
+	text-align: center;
+}
+p{
+	font-family: Arial, sans-serif;
+	font-size: 20px;
+}
+section{
+	flex: 1;
+	border-radius: 8px;
+	text-align: center;
+	margin: 5px;
+	min-height: 270px;
+}
+section p{
+	margin-top: 10px;
+}
+.features >*{
+	margin: 2px;
+}
+
+/*find out more*/
+#more{
+	min-height: 40px;
+	max-height: 50px;
+	margin-top: 10em;
+		margin-bottom: 5em;
+}
+#more a{
+	background-color:grey;
+	border-radius: 3px;
+	padding: 3px;
+	font-size: 2em;
+	text-align: center;
+	color:white;
+	text-decoration:none;
+}
+#more a:hover{
+	font-size: 2.1em;
+}
+
+/*footer*/
+footer{
+	margin-top: 80px;
+	border-top:0.2px solid whitesmoke;
+}
+footer li{
+	display: inline;
+}
+footer li{
+	padding: 0px;
+	margin:90px;
+	margin-left: 13%;
+}
+footer p{
+	text-align:center;
+	font-size: 1em;
+}
+footer nav{
+/* 	margin-left: 50%; */
+/* 	margin-right: 40%; */
+}
+footer nav a{
+	color:rgb(63, 127, 191);
+	text-decoration:none;
+}
+
+/*homepageSection*/
+#homepageSection{
+	border-radius: 0px;
+	flex:0 0 100vw;
+	margin: 0px;
+	background-color: rgb(63, 127, 191);
+}
+#homepageSection p{
+	color: white;
+	margin-top: 1.2em;
+	text-align:left;
+	margin-right:5%;
+	margin-left: 5%;
+	line-height:35px;
+}
+#homepageSection h4{
+	font-size:2.5em;
+	color: white;
+	margin-top: 50px;
+}
+/*advertisement button*/
+#advertBtn{
+	font-size: 20px;
+	margin-top:20px;
+	padding:7px;
+	border-radius: 9px;
+}
+/*region and join a network section*/
+#regAndjoin{
+	display: flex;
+	flex-flow: row wrap;
+	margin: 200px;
+}
+#registerPlatform p{
+	text-align:left;
+	margin-left: 5%;
+	margin-right: 5%;
+line-height:35px;
+}
+#registerPlatform h4{
+	font-size:1.2em;
+}
+#registerPlatform{
+	background-color: rgb(18, 11, 11);
+	color: white;
+	font-size: 1.5em;
+}
+#registerPlatform:hover{
+	background-color: rgba(14, 14, 16, 0.8);
+}
+#joinNetwork{
+	background-color:rgb(18, 11, 11);
+	color: white;
+	font-size: 1.5em;
+}
+#joinNetwork p{
+	text-align:left;
+	margin-left: 5%;
+	margin-right: 5%;
+	line-height:35px;
+}
+#joinNetwork h4{
+	font-size:1.2em;
+}
+#joinNetwork:hover{
+	background-color:rgba(14, 14, 16, 0.8);
+	color: white;
+	font-size: 1.5em;
+}
+
+/*artists*/
+#artistSection{
+	margin-bottom:200px;
+	margin-left:11%;
+	margin-right:11%;
+}
+.artistImg{
+	float: left; 
+	width:30%;
+	height:30%;
+	border-radius:3px;
+	margin-right:10px;
+}
+#artistSection h4, #investBusiness h4{
+/* 	margin-top: 25px; */
+	margin-bottom: 15px;
+	font-size: 2.5em;
+}
+#artistSection p{
+	line-height:35px;
+}
+#artistSection p , #artistSection h4{
+	text-align: left;
+}
+/*invest and business*/
+#investBusiness{
+		margin-bottom:200px;
+}
+#investBusiness p, #investBusiness h4{
+text-align:left;
+	margin-left:34%;
+	margin-right: 10%;
+	line-height: 30px;
+}
+#investBusiness img{
+	float: right;
+	width: 30%;
+	height: 30%;
+	margin-right: 10%;
+	border-radius:3px;
+}
+/*promotiion, donations and marketing section*/
+#promoDonationsMarketing{
+	display: flex;
+	flex-flow: row wrap;
+	font-size: 1.5em;
+}
+#promotions,#donations,#marketing{
+	background-color: rgba(22, 80, 181, 0.4);
+	color: white;
+}
+#promotions:hover, #marketing:hover,#donations:hover {
+	background-color: rgb(63, 127, 191);
+}
+#promoDonationsMarketing h4{
+	font-size: 1.5em;
+}
+#promotions p, #donations p,#marketing p {
+	text-align:left;
+	margin-left: 5%;
+	margin-right: 5%;
+	line-height: 30px;
+}
+/*toolbar*/
+.toolbar{
+	float: right;
+	margin-right: 10px;
+	margin-left: 20px;
+	margin-top:-5px;
+}
+#language{
+	height: 48px;
+	width:48px
+}
+#menu,#notifications{
+	background-color: transparent;
+	border:transparent;
+	
+}
